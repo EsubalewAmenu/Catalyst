@@ -54,7 +54,7 @@ def checkIfLoggedIn(driver):
 
         print("Login button found and clicked.")
 
-        time.sleep(20)
+        time.sleep(4)
         close_cookie_modal(driver)
     
         # Find the email and password fields and input the values
@@ -67,7 +67,7 @@ def checkIfLoggedIn(driver):
         # Find and click the login button
         login_button = driver.find_element(By.XPATH, '//button[text()="Log in"]')
         login_button.click()        
-        time.sleep(20)
+        time.sleep(10)
 
     except NoSuchElementException:
         print("Login button not found on the page.")
