@@ -29,10 +29,10 @@ def is_string_in_file(search_string):
 def add_image(driver):
     try:
         link = 'https://pbs.twimg.com/media/GFAB-a5XYAAt2yl?format=jpg&name=large'
-        
         # Find and click the "Add Image" button
         add_image_button = driver.find_element(By.CSS_SELECTOR, 'button.ql-image')
         add_image_button.click()
+        print("add img btn beclicked")
 
         time.sleep(2)
         
@@ -42,6 +42,7 @@ def add_image(driver):
         )
 
         add_links_button.click()
+        print("image link tab changed")
 
 
 
@@ -52,6 +53,7 @@ def add_image(driver):
 
         input_field.clear()
         input_field.send_keys(link)
+        print("img link pasted")
 
         time.sleep(2)
 
@@ -80,21 +82,22 @@ def fill_message_form(driver):
 
         # Find the div with contentEditable attribute
         body_input = driver.find_element(By.CSS_SELECTOR, '#message-modal-body [contentEditable="true"]')
-        print(body_selector())
+        # print(body_selector())
         # Clear existing content (if any) and fill with "test 2"
         body_input.clear()
         # body_input.send_keys(handle_newlines_and_emojis(body_selector()), Keys.ENTER)  # Pressing Enter to create a new line
         body_input.send_keys(body_selector())
 
         # Check if the emoji is present in the body input
-        print("Body input content:", body_input.text)
+        # print("Body input content:", body_input.text)
 
         is_image_uploaded = add_image(driver)
         
-        print("Filled message form successfully.")
         if is_image_uploaded:
+            print("Filled message form successfully.")
             return True
         else:
+            print(" message form not Filled successfully.")
             return False
     except Exception as e:
         print(f"Error filling message form: {e}")
@@ -131,11 +134,22 @@ def send_message_to_user(user_profile, driver):
 
     if is_filled :
         print("message is prepared successfuly")
-        time.sleep(20)
+        time.sleep(2)
+
+        css_selector = 'div.modal-content form#message-modal button.btn-primary'
+        send_button = WebDriverWait(driver, 10).until(
+            EC.element_to_be_clickable((By.CSS_SELECTOR, css_selector))
+        )
+
+        send_button.click()
+
+        time.sleep(2)
 
         with open('sent_to.txt', 'a') as file:
             file.write(f"\n{user_profile}")
     
+        time.sleep(2)
+
 
 def loop_all_users():
 

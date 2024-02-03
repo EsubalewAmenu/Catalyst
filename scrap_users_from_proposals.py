@@ -26,14 +26,14 @@ def category_infinity_scroll(category_url):
     # Scroll to the bottom of the page to load more content
     last_height = driver.execute_script("return document.body.scrollHeight")
 
-    # while True:
-    #     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-    #     time.sleep(15)  # Adjust the scroll wait time as needed
+    while True:
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+        time.sleep(25)  # Adjust the scroll wait time as needed
 
-    #     new_height = driver.execute_script("return document.body.scrollHeight")
-    #     if new_height == last_height:
-    #         break  # Break the loop if no more content is loaded
-    #     last_height = new_height
+        new_height = driver.execute_script("return document.body.scrollHeight")
+        if new_height == last_height:
+            break  # Break the loop if no more content is loaded
+        last_height = new_height
 
     # Now the page should have loaded all content
     soup = BeautifulSoup(driver.page_source, "html.parser")
@@ -83,9 +83,36 @@ def update_users_file(profile_url_list, title):
         print(f"Error updating file: {str(e)}")
 
 
-soup = category_infinity_scroll("https://cardano.ideascale.com/c/campaigns/404/stage/stage-moderationb4ff7a/ideas/unspecified")
-profile_url_list = scrap_submitters(soup)
+categories = [
+    # Fund11
+    # "https://cardano.ideascale.com/c/campaigns/407/stage/stage-moderatione8a811/ideas/unspecified",
+    # "https://cardano.ideascale.com/c/campaigns/404/stage/stage-moderationb4ff7a/ideas/unspecified", 
+    # "https://cardano.ideascale.com/c/campaigns/405/stage/stage-moderationf8cce8/ideas/unspecified",
+    # "https://cardano.ideascale.com/c/campaigns/406/stage/stage-moderationd45a46/ideas/unspecified",
+    # "https://cardano.ideascale.com/c/campaigns/408/stage/stage-moderationd3ce6f/ideas/unspecified",
+    # "https://cardano.ideascale.com/c/campaigns/409/stage/stage-moderation6f2647/ideas/unspecified",
+    # "https://cardano.ideascale.com/c/campaigns/410/stage/stage-moderation6d38b3/ideas/unspecified",
 
-title = soup.find('h1').get_text(strip=True)
+    # Fund10
+    "https://cardano.ideascale.com/c/campaigns/346/stage/stage-governance2c657a/ideas/unspecified",
+    "https://cardano.ideascale.com/c/campaigns/347/stage/stage-governance5f5374/ideas/unspecified",
+    "https://cardano.ideascale.com/c/campaigns/348/stage/stage-governancee61d9e/ideas/unspecified",
+    "https://cardano.ideascale.com/c/campaigns/349/stage/stage-governance644f71/ideas/unspecified",
+    "https://cardano.ideascale.com/c/campaigns/350/stage/stage-governance624c1d/ideas/unspecified",
+    "https://cardano.ideascale.com/c/campaigns/351/stage/stage-governanceac575b/ideas/unspecified",
+    "https://cardano.ideascale.com/c/campaigns/352/stage/stage-governancee7c869/ideas/unspecified",
+    "https://cardano.ideascale.com/c/campaigns/353/stage/stage-governancec3ddde/ideas/unspecified",
+    "https://cardano.ideascale.com/c/campaigns/354/stage/stage-governance8ea19c/ideas/unspecified",
+    "https://cardano.ideascale.com/c/campaigns/355/stage/stage-governancea12b48/ideas/unspecified"
 
-update_users_file(profile_url_list, title)
+]
+
+
+for category in categories:
+
+    soup = category_infinity_scroll(category)
+    profile_url_list = scrap_submitters(soup)
+
+    title = soup.find('h1').get_text(strip=True)
+
+    update_users_file(profile_url_list, title)

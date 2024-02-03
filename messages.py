@@ -4,20 +4,30 @@ import random
 def subject_selector():
 
     subject_options =[
-        "Cast Your Vote for Cardano's Future!",
-        "Elevate Cardano!",
+        "[Fund11] Cast Your Vote for Cardano's Future!",
+        "[Fund11] Elevate Cardano!",
         "Your Vote Matters! Discover Top-Rated Proposals.",
-        "Seamless Voting: Explore Community-Backed Proposals!",
-        "Shape the Destiny of Cardano!",
-        "Unleash Progress: Support High-Rated Proposals!",
-        "Top Community Ratings: Explore Proposals Now!",
-        "Your Catalyst for Change: Vote for Success!",
-        "Propel Cardano Forward: Vote for Standout Proposals!",
-        "Recognition of Excellence: Explore Community-Prized Proposals!",
+        "Explore Community-Backed Fund11 Proposals!",
+        "[Fund11] Shape the Destiny of Cardano!",
+        "Support High-Rated Fund11 Proposals!",
+        "[Fund11] Vote for Success!",
+        "Vote for Standout Fund11 Proposals!",
+        "Explore Community-Prized Fund11 Proposals!",
     ]
     return random.choice(subject_options)
 
 def body_selector():
+
+
+    pre_fund =[
+        "Impressed by your Fund10 proposal, we were expected a new submission this round. Although the submission time is over, your support for our project can still drive impactful initiatives.",
+        "Your Fund10 proposal was interesting, and we were hopeful for a new one this round. Even without it, your support for our project can still make a significant impact.",
+        "Your Fund10 proposal left an impression, and we were looking forward to your submission this round. Regardless, your vote for our project fuels the realization of impactful projects.",
+        "After the interesting Fund10 proposal, we were eager for your new submission. Although the submission time is over, your support for our project contributes to the success of impactful initiatives.",
+        "The impact of your Fund10 proposal resonated, and we awaited a new one this round. Even without it, your support for our project propels impactful initiatives forward.",
+        "Your Fund10 proposal intrigued us, and we hoped for a follow-up this round. Nevertheless, your vote for our project is crucial in realizing impactful projects on the ground.",
+        "Your Fund10 proposal caught our attention, and we were hopeful for a new one this round. Even without it, your vote for our project contributes to the success of impactful projects on the ground."
+    ]
 
     intro =[
     '''Vote for Excellence!
@@ -69,6 +79,12 @@ def body_selector():
 
     Why us?'''
         ]
+    why_us = [
+        "Why us?",
+        "Why support us?",
+        "Why choose us?",
+        "Why vote for us?"
+    ]
     success = [
         "* Unmatched Success: 100K+ app downloads.",
         "* Stellar Track Record: 100K+ app downloads.",
@@ -157,7 +173,9 @@ def body_selector():
 
 
     selected_content = (
-        random.choice(intro) + '\n'+
+        random.choice(pre_fund) + '\n\n'+
+        # random.choice(intro) + '\n'+
+        random.choice(why_us) + '\n'+
     
     random.choice(success) + '\n' +
      random.choice(collaboration) + '\n'+
