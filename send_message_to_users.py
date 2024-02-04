@@ -9,7 +9,7 @@ import os
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-
+from vote import get_proposal_vote
 
 
 def is_string_in_file(search_string):
@@ -22,9 +22,6 @@ def is_string_in_file(search_string):
 
     with open(file_path, 'r') as file:
         return search_string in file.read()
-
-
-
 
 def add_image(driver):
     try:
@@ -69,7 +66,6 @@ def add_image(driver):
     except Exception as e:
         print(f"Error adding image: {e}")
         return False
-
 
 def fill_message_form(driver):
     try:
@@ -150,14 +146,12 @@ def send_message_to_user(user_profile, driver):
     
         time.sleep(2)
 
-
 def loop_all_users():
 
+    # options = Options()
+    # options.add_argument("--incognito")
 
-    options = Options()
-    options.add_argument("--incognito")
-
-    driver = webdriver.Chrome(options=options)
+    # driver = webdriver.Chrome(options=options)
 
 
     file_path = "users_list.txt"
@@ -172,12 +166,16 @@ def loop_all_users():
         with open(file_path, 'r') as file:
             for line in file:
                 if line.startswith('/'):
-                    result = is_string_in_file(line.strip())
+                    # result = is_string_in_file(line.strip())
 
-                    if result:
-                        print(f'Already sent to {line.strip()}')
-                    else:
-                        send_message_to_user(line.strip(), driver)
+                    # if result:
+                    #     print(f'Already sent to {line.strip()}')
+                    # else:
+                    #     send_message_to_user(line.strip(), driver)
+
+                    title = "sdlf"
+                    get_proposal_vote(title)
+                    time.sleep(5)
 
     except FileNotFoundError:
         print(f"Error: File '{file_path}' not found.")
@@ -185,7 +183,7 @@ def loop_all_users():
         print(f"Error: {str(e)}")
 
 
-    # Close the browser window when done
-    driver.quit()
+    # # Close the browser window when done
+    # driver.quit()
 
 loop_all_users()
