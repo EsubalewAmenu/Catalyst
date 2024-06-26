@@ -1,0 +1,691 @@
+Category title: Cardano Open: Developers
+Idea: DE-UPLC: Visual Studio Code Extension for Debugging and Visualizing Plutus Bytecode | Idea link: /c/idea/123643 | Author links: /c/profile/197680
+Idea: OpShin Audit | Idea link: /c/idea/123625 | Author links: /c/profile/206531
+Idea: dAppsOnCardano - Analytics and dapp store for all Cardano dApps | Idea link: /c/idea/123624 | Author links: /c/profile/206418
+Idea: Amharic UI for Project Catalyst (Ethiopia) | Idea link: /c/idea/123604 | Author links: /c/profile/199213, /c/profile/205816
+Idea: DIMS : A decentralized system for managing and monetizing ideation and project contributions through asynchronous composable workflows | Idea link: /c/idea/123600 | Author links: /c/profile/128593
+Idea: 45B - Mesh as a Cardano data-abstraction layer | Idea link: /c/idea/123601 | Author links: /c/profile/191355
+Idea: AI NFT Code Generator (No Code) | Idea link: /c/idea/123584 | Author links: /c/profile/198402
+Idea: Cardano depin example | Idea link: /c/idea/123525 | Author links: /c/profile/189183, /c/profile/206453
+Idea: Staking Basket Bot Open-source | Idea link: /c/idea/123522 | Author links: /c/profile/128563, /c/profile/183972
+Idea: Django extensions for Cardano | Idea link: /c/idea/123512 | Author links: /c/profile/128867
+Idea: Cardano CLI GUI | Idea link: /c/idea/123471 | Author links: /c/profile/202643
+Idea: Koios Rust Client Library | Idea link: /c/idea/123454 | Author links: /c/profile/197965
+Idea: Open-Source Library for DeFi Smart Contracts in Aiken | Idea link: /c/idea/123446 | Author links: /c/profile/183414
+Idea: Open-source Hydra Head L2 Web based Explorer and API | Idea link: /c/idea/123375 | Author links: /c/profile/191296
+Idea: OrionPay: URL-encoded payments layer SDK for B2C and D2C usecases on Cardano | Idea link: /c/idea/123367 | Author links: /c/profile/178733
+Idea: Cardano Playground++: Code, Compile & Deploy in One Place | Idea link: /c/idea/123356 | Author links: /c/profile/206415
+Idea: Pondora Typescript SDK - Simplifying interaction with Next Gen DeFi protocols | Idea link: /c/idea/123332 | Author links: /c/profile/195145
+Idea: [nftcdn.io] Open Source JavaScript NFT Media Viewer/Player (music, video, 3D, etc.) | Idea link: /c/idea/123311 | Author links: /c/profile/129977, /c/profile/182072
+Idea: Unified Open Source DEX Analytics For Cardano | Idea link: /c/idea/123295 | Author links: /c/profile/183410
+Idea: Cardano.Sync | A .NET/C# Indexing Framework for Cardano | Idea link: /c/idea/123292 | Author links: /c/profile/128312, /c/profile/188832, /c/profile/195541
+Idea: Cardano Developer Toolkit | Idea link: /c/idea/123288 | Author links: /c/profile/190656
+Idea: Incorporating Plonk into AK-381 Zero-Knowledge Library | Idea link: /c/idea/123276 | Author links: /c/profile/190836, /c/profile/168267, /c/profile/177375
+Idea: VERALIDITY 🔥 Adobe Commerce & Magento 2 Open Source Cardano DbSync Integration 🔥 Seamless REST & GraphQl APIs 🚀 | Idea link: /c/idea/123236 | Author links: /c/profile/191018
+Idea: Blaze: Plutus Data Serialisation | Idea link: /c/idea/123209 | Author links: /c/profile/190679, /c/profile/190556
+Idea: XSY - High-performance on-chain standard library for Plutarch and Aiken | Idea link: /c/idea/123158 | Author links: /c/profile/199875
+Idea: SDK for interaction with JamOnBread's NFT API | Idea link: /c/idea/123119 | Author links: /c/profile/189590, /c/profile/188445
+Idea: Cardano Swift - SDK for Apple Development (Cardano Serialization Library x Rust) | Idea link: /c/idea/123098 | Author links: /c/profile/205286, /c/profile/178232, /c/profile/205287
+Idea: Cardano-Midnight ZKBridge: Port Assets between Midnight and Cardano | Idea link: /c/idea/123097 | Author links: /c/profile/205012
+Idea: Cloudflare Workers Cardano SDK | Idea link: /c/idea/123095 | Author links: /c/profile/132166
+Idea: Cardano Codec add support for Chang HF | Idea link: /c/idea/123027 | Author links: /c/profile/191274
+Idea: Empowering Taiwan: Cardano Educational Platform | Idea link: /c/idea/122997 | Author links: /c/profile/178281
+Idea: Account Abstraction: Replacing Seed Phrases with User Friendly Mechanism for Non-Custodial Wallets on Cardano | Idea link: /c/idea/122990 | Author links: /c/profile/140430
+Idea: Gasless Tx Library: Empowering Cardano dApps & DAOs to Sponsor Gas Fees to Increase User Base and Adoption - Open-source | Idea link: /c/idea/122985 | Author links: /c/profile/190272
+Idea: genun | Non-Predatory Betting Protocol in Ascent: Rivals | Idea link: /c/idea/122956 | Author links: /c/profile/195490, /c/profile/131131, /c/profile/180397
+Idea: Grabbit | Onchain Charity Registry | Idea link: /c/idea/122919 | Author links: /c/profile/191750, /c/profile/192212, /c/profile/195535, /c/profile/191750, /c/profile/192212, /c/profile/195535
+Idea: AIKEN ZKP standards library for Cardano | Idea link: /c/idea/122871 | Author links: /c/profile/195474, /c/profile/159487
+Idea: Djed Shu Stablecoin Implementation | Idea link: /c/idea/122829 | Author links: /c/profile/183148
+Idea: Cardano-wallet Flutter SDK | Idea link: /c/idea/122821 | Author links: /c/profile/205881
+Idea: Automation Testing Framework for Smart Contract with Courses & Hackathons | Idea link: /c/idea/122808 | Author links: /c/profile/196988
+Idea: DCOne Crypto - Cardano Query Layer + Trading Swap API for Developers [Open Source] | Idea link: /c/idea/122763 | Author links: /c/profile/181179
+Idea: Cardano AI Suite: Real-Time Insights, Dev Aid & Misinfo Watch | Idea link: /c/idea/122741 | Author links: /c/profile/163376
+Idea: Python IDE PyCharm Integrated with Cardano Development Support | Idea link: /c/idea/122739 | Author links: /c/profile/166913, /c/profile/194015
+Idea: Cardano Native Token Dex Price Indexer in Kotlin | Idea link: /c/idea/122735 | Author links: /c/profile/191244, /c/profile/128771
+Idea: AnetaBTC - Decentralized and Scalable Wrapping Protocol | Idea link: /c/idea/122696 | Author links: /c/profile/183303
+Idea: Elixir implementation of Ouroboros networking | Idea link: /c/idea/122664 | Author links: /c/profile/175612
+Idea: CardanoCrops: Cultivating Cardano Smart Contract Development Skills | Idea link: /c/idea/122661 | Author links: /c/profile/191453
+Idea: Amaru: P2P networking component by TxPipe | Idea link: /c/idea/122658 | Author links: /c/profile/167329, /c/profile/190322
+Idea: Cardano Game Development SDK for Godot | Idea link: /c/idea/122621 | Author links: /c/profile/167992
+Idea: Open-Source Vulnerability Scanner for Cardano Smart Contracts | Idea link: /c/idea/122613 | Author links: /c/profile/199715
+Idea: Optim DAO Stack -- Next-Gen DAO Software -- Open Source, Modular, Plutus V2/3 + Aiken. | Idea link: /c/idea/122595 | Author links: /c/profile/178803, /c/profile/171256
+Idea: A user friendly nostr-powered communication solution for small-scale Brazilian entrepreneurs who face restrictions on offering their services within the country due to state censorship | Idea link: /c/idea/122589 | Author links: /c/profile/205851
+Idea: JS Framework for cardano developers to integrate OAuth/Social logins | Idea link: /c/idea/122588 | Author links: /c/profile/137273
+Idea: Sky Protocol: Data Availability for Cardano Layer 2 Solutions | Idea link: /c/idea/122541 | Author links: /c/profile/144069, /c/profile/134997, /c/profile/147528
+Idea: Build a customised LLM for Aiken Smart Contract code analysis and release on Hugging Face | Idea link: /c/idea/122486 | Author links: /c/profile/193218
+Idea: Sustain and Maintain Mesh SDK | Idea link: /c/idea/122471 | Author links: /c/profile/189733
+Idea: Open Source Java NFT Sniper | Idea link: /c/idea/122426 | Author links: /c/profile/131404
+Idea: Paideia - Building Blocks for Complex Treasury Management | Idea link: /c/idea/122358 | Author links: /c/profile/191596, /c/profile/191596
+Idea: Anastasia Labs - Smart Contract Formal Verification Framework | Idea link: /c/idea/122316 | Author links: /c/profile/190178, /c/profile/137402, /c/profile/178181, /c/profile/190177, /c/profile/195565, /c/profile/190178, /c/profile/137402, /c/profile/178181, /c/profile/190177, /c/profile/195565
+Idea: A Symphony of Automated dApp Composition and Creation | Idea link: /c/idea/122280 | Author links: /c/profile/198079, /c/profile/198229
+Idea: Cardano Explorer Upgrade: Advanced Analytics & Visualization | Idea link: /c/idea/122273 | Author links: /c/profile/198081
+Idea: Maintain latest aarch64 (ARM) compliant static binaries for Cardano SPOs, developers and users | Idea link: /c/idea/122242 | Author links: /c/profile/158656
+Idea: Tangocrypto: Open Source Minting Platform for NFTs - With Payment Gateway and Wallet integration | Idea link: /c/idea/122227 | Author links: /c/profile/137186, /c/profile/136936
+Idea: Cardano eCommerce Application | Idea link: /c/idea/122200 | Author links: /c/profile/202713
+Idea: Hyperledger Identus Feature Development | Idea link: /c/idea/122164 | Author links: /c/profile/147970, /c/profile/151364, /c/profile/170480, /c/profile/177584, /c/profile/188740, /c/profile/207531, /c/profile/207641, /c/profile/207660, /c/profile/207879, /c/profile/147970, /c/profile/151364, /c/profile/170480, /c/profile/177584, /c/profile/188740, /c/profile/207531, /c/profile/207641, /c/profile/207660, /c/profile/207879
+Idea: AnimationDev: Empowering Developers with Comprehensive Tools and Collaboration | Idea link: /c/idea/122144 | Author links: /c/profile/190257
+Idea: Redesign of Catalyst's proposal review system and methodology [by TrustLevel, Photrek & Lidonation] | Idea link: /c/idea/122134 | Author links: /c/profile/131427, /c/profile/149710
+Idea: Streamlining Cardano DApp Development with Open-Source Batcher | Idea link: /c/idea/122088 | Author links: /c/profile/190875
+Idea: Low-code cardano smart contract generator | Idea link: /c/idea/122062 | Author links: /c/profile/202061
+Idea: Shopify + Cardano NFTs Token Gating Web3 for E-commerces Stores | Idea link: /c/idea/122033 | Author links: /c/profile/129439
+Idea: Cardano ADA Demand-Supply Tracking System | Idea link: /c/idea/121994 | Author links: /c/profile/132859, /c/profile/181871
+Idea: Scalus: Multiplatform Tx Builder – same code for front&backend | Idea link: /c/idea/121971 | Author links: /c/profile/182154
+Idea: Open-Source Review and Reputation System - with a Use Case for Hotels | Idea link: /c/idea/121963 | Author links: /c/profile/207051
+Idea: NFT Guild: Dynamic Royalties & Burning Tools for Creators | Idea link: /c/idea/121891 | Author links: /c/profile/178186, /c/profile/132966, /c/profile/136863, /c/profile/138569, /c/profile/178186, /c/profile/132966, /c/profile/136863, /c/profile/138569
+Idea: SIDAN | MeshJS - Cardano Service Layer Framework for DApps | Idea link: /c/idea/121847 | Author links: /c/profile/194722, /c/profile/202286
+Idea: Link NFT with any purchase | Idea link: /c/idea/121844 | Author links: /c/profile/200381
+Idea: Minswap SDK for Stableswap + AMM v2 + LBE v2 | Idea link: /c/idea/121836 | Author links: /c/profile/161416
+Idea: Marlowe PBL 2025 | Idea link: /c/idea/121778 | Author links: /c/profile/190751
+Idea: Cardano Developer Grants Initiative: Empowering Innovation and Growth | Idea link: /c/idea/121749 | Author links: /c/profile/204974
+Idea: Cardano Enterprise Innovation Hub: Empowering Businesses for Tomorrow | Idea link: /c/idea/121721 | Author links: /c/profile/181918, /c/profile/182107
+Idea: Scaffold-Cardano: Accelerating Cardano dApp Development, Robust Development framework inspired by the success of Scaffold-ETH | Idea link: /c/idea/121549 | Author links: /c/profile/170302, /c/profile/195289
+Idea: MLabs - Efficient Contract Upgrades with Yielding Tx Pattern | Idea link: /c/idea/121461 | Author links: /c/profile/147329
+Idea: Cardano UI Component Library by Lido Nation | Idea link: /c/idea/121429 | Author links: /c/profile/178404, /c/profile/188144
+Idea: Decentralized Wallet React Component by Mandala | Idea link: /c/idea/121422 | Author links: /c/profile/130655, /c/profile/190879
+Idea: Plug-n-Play Marketing API for Cardano Developers | Idea link: /c/idea/121321 | Author links: /c/profile/201625
+Idea: zkFold: UPLC Converter | Idea link: /c/idea/121266 | Author links: /c/profile/161654
+Idea: Open-source for Wallet on Telegram integrated Sanchonet GOV Tool | Idea link: /c/idea/121197 | Author links: /c/profile/203746
+Idea: Ouroboros Stress Test and Early Warning System | Idea link: /c/idea/121088 | Author links: /c/profile/195347, /c/profile/130515, /c/profile/170953, /c/profile/190480, /c/profile/195347, /c/profile/130515, /c/profile/170953, /c/profile/190480
+Idea: AI Assistant for Governance: Empowering Team-Based dReps | Idea link: /c/idea/121083 | Author links: /c/profile/135966, /c/profile/135966
+Idea: Cardano Smart Contract Auditing Tool that saves millions of dollars from being stolen | Idea link: /c/idea/121036 | Author links: /c/profile/198685
+Idea: Cardano GPT + PlutusTutor: A personalised AI Assistant for learning Plutus | Idea link: /c/idea/120961 | Author links: /c/profile/183283, /c/profile/183539
+Idea: Gimbalabs - Flagship Course for Aiken | Idea link: /c/idea/120959 | Author links: /c/profile/128082, /c/profile/176562, /c/profile/195298, /c/profile/128082, /c/profile/176562, /c/profile/195298
+Idea: KURAT TECH: Redefining Entertainment in Ethiopia with Cardano | Idea link: /c/idea/120781 | Author links: /c/profile/199080
+Idea: NFT Guild: Multi-Marketplace NFT Listings - A New Open-Standard for Cardano | Idea link: /c/idea/120753 | Author links: /c/profile/159106, /c/profile/159106
+Idea: SIDAN | MeshJS - Advance Cardano SDK in Rust | Idea link: /c/idea/120709 | Author links: /c/profile/195351, /c/profile/195351
+Idea: Cardano Cross-Chain Interoperability Protocol Integration | Idea link: /c/idea/120610 | Author links: /c/profile/187997, /c/profile/190193
+Idea: DeltaDeFi - Open Source Libraries for High Frequency Trading | Idea link: /c/idea/120595 | Author links: /c/profile/190806, /c/profile/180804, /c/profile/195292, /c/profile/195293, /c/profile/195294, /c/profile/190806, /c/profile/180804, /c/profile/195292, /c/profile/195293, /c/profile/195294
+Idea: ARC Chain Reaction: Unleashing Africa’s Potential Through Cardano | Idea link: /c/idea/120583 | Author links: /c/profile/201362, /c/profile/136920
+Idea: DRED Decentralized API | Idea link: /c/idea/120572 | Author links: /c/profile/169998, /c/profile/128827, /c/profile/148478, /c/profile/165184, /c/profile/195536, /c/profile/169998, /c/profile/128827, /c/profile/148478, /c/profile/165184, /c/profile/195536
+Idea: Yepple - Complete NFT Sale Platform - Free, Easy, and Safe | Idea link: /c/idea/120562 | Author links: /c/profile/190518, /c/profile/149846, /c/profile/178820
+Idea: cardano impact tracking hub | Idea link: /c/idea/120551 | Author links: /c/profile/190580, /c/profile/171800
+Idea: CAP: Cardano Analytics Platform | Idea link: /c/idea/120488 | Author links: /c/profile/200746, /c/profile/193277
+Idea: Cardano SDK for Elixir Language [Open source] | Idea link: /c/idea/120484 | Author links: /c/profile/129561
+Idea: Cardano API Gateway: Democratizing Access to Cardano Services | Idea link: /c/idea/120459 | Author links: /c/profile/183842
+Idea: stealthWallet - air-gapped self custody Wallet | Idea link: /c/idea/120351 | Author links: /c/profile/190045
+Idea: Hlabs: CIP-113 - Finalize the standard for assets with programmability over transfers | Idea link: /c/idea/120311 | Author links: /c/profile/177546
+Idea: DEMU Protocol - Updating Music's Global Financial System | Idea link: /c/idea/120215 | Author links: /c/profile/159221
+Idea: ANVIL - Open Source - Universal Wallet Connector - Crosschain | Idea link: /c/idea/120197 | Author links: /c/profile/195383, /c/profile/182525, /c/profile/182735, /c/profile/187889, /c/profile/191095, /c/profile/195383, /c/profile/182525, /c/profile/182735, /c/profile/187889, /c/profile/191095
+Idea: HydroGenuine - Open source track and trace platform with green energy use-case on Cardano | Idea link: /c/idea/120180 | Author links: /c/profile/201992, /c/profile/197281, /c/profile/202132, /c/profile/202144, /c/profile/201992, /c/profile/197281, /c/profile/202132, /c/profile/202144
+Idea: Eqwiip - gateway for Developers in Africa to cardano ecosystem | Idea link: /c/idea/120162 | Author links: /c/profile/199197
+Idea: Gamechanger: Inception IDE | Idea link: /c/idea/120115 | Author links: /c/profile/138778, /c/profile/160127
+Idea: Dandelion-lite: Decentralized nodes for dummies for GC, Gimbalabs, Roundtable and devs | Idea link: /c/idea/120108 | Author links: /c/profile/129313
+Idea: Open-Source Solution for Porting-IN Communities from other chains (like Algorand, Solana, Ethereum, Polygon etc.) | Idea link: /c/idea/119981 | Author links: /c/profile/145559
+Idea: A Real-Time Cardano-specific Desk Watch (open-source with DIY assembly instructions and 3D-printed case). Ideal for Node Operators / SPOs / DReps for monitoring key metrics seamlessly. | Idea link: /c/idea/119961 | Author links: /c/profile/195863
+Idea: Marlowe Starter-Kit: Ready-to-use Components - NEXT & TS-SDK | Idea link: /c/idea/119950 | Author links: /c/profile/190163, /c/profile/190173
+Idea: Kardano - Kotlin Multiplatform Cardano Client | Idea link: /c/idea/119941 | Author links: /c/profile/199845
+Idea: BALANCE - Not Delegated UTXO Data Analytics - [Open Source] | Idea link: /c/idea/119915 | Author links: /c/profile/201075
+Idea: Reinventing Voting with Digital Identity, Trust and Anonymity | Idea link: /c/idea/119903 | Author links: /c/profile/155053
+Idea: Cardano Testers | Idea link: /c/idea/119887 | Author links: /c/profile/194996
+Idea: BALANCE - Stake Flow Charts - [Open Source] | Idea link: /c/idea/119764 | Author links: /c/profile/131696
+Idea: CIP/CPS Analysis App for Data-Driven Insights | Idea link: /c/idea/119515 | Author links: /c/profile/199894
+Idea: Bind-friendly C Library for UPLC (Untyped Plutus Core) code execution | Idea link: /c/idea/119422 | Author links: /c/profile/194391
+Idea: Proposal for the development of Community Health Management Software(CHMS) | Idea link: /c/idea/119372 | Author links: /c/profile/199215
+Idea: Golang SDK for CardanoBI API | Idea link: /c/idea/119207 | Author links: /c/profile/143278
+Idea: NMKR SDK for Godot | Idea link: /c/idea/119196 | Author links: /c/profile/180577, /c/profile/182584
+Idea: OgmiosDotnet: An Open Source .NET Client for Cardano Node Communication | Idea link: /c/idea/119104 | Author links: /c/profile/191052
+Idea: Cardano DevTrack: A Cardano Development and Tooling Platform | Idea link: /c/idea/119005 | Author links: /c/profile/190154
+Idea: Pocket Pool - One click solution for launching a stake pool on Ubuntu | Idea link: /c/idea/118891 | Author links: /c/profile/178457
+Idea: Cardano Multipurpose Hub Dependency for Mobile, Web, desktop & embedded devices | Idea link: /c/idea/118805 | Author links: /c/profile/189722
+Idea: cDPT-1: An Open-Source Cardano Development AI Assistant | Idea link: /c/idea/118682 | Author links: /c/profile/171355, /c/profile/199663
+
+Category title: Cardano Use Cases: MVP
+Idea: White Label KYC for MBO | Idea link: /c/idea/123613 | Author links: /c/profile/206522, /c/profile/128188, /c/profile/165070
+Idea: Telegram Alert Bot (token price, wallet tx, burnmint of tokens) | Idea link: /c/idea/123592 | Author links: /c/profile/203909, /c/profile/131488, /c/profile/132085
+Idea: Make Cardano a better choice for SSI applications: Secure & Scalable Credential Verification with DApps | Idea link: /c/idea/123507 | Author links: /c/profile/149443, /c/profile/161526, /c/profile/168330, /c/profile/172125, /c/profile/183537, /c/profile/149443, /c/profile/161526, /c/profile/168330, /c/profile/172125, /c/profile/183537
+Idea: [CASIA] x [C4G] Cardano4Good - a dApp Fundraising Platform for Social Good Projects (Phase 2) | Idea link: /c/idea/123497 | Author links: /c/profile/157901, /c/profile/167208, /c/profile/206288
+Idea: Evoke Phygital Marketplace, where every physical item paired with NFT | Idea link: /c/idea/123493 | Author links: /c/profile/206200, /c/profile/190250
+Idea: Adatag - A Universal NFT based Username Service on the Cardano Blockchain | Idea link: /c/idea/123473 | Author links: /c/profile/128600
+Idea: DAO Suisse - Compliant DAO Launcher on Cardano | Idea link: /c/idea/123442 | Author links: /c/profile/206182, /c/profile/206359, /c/profile/206422
+Idea: MarketRaker: Democratising Trading with AI on Cardano | Idea link: /c/idea/123418 | Author links: /c/profile/197778
+Idea: Cardano powered i-commerce | Idea link: /c/idea/123397 | Author links: /c/profile/199919, /c/profile/199880
+Idea: TribalDAOs = Group onboarding solution for community registrations, membership + identity | Idea link: /c/idea/123386 | Author links: /c/profile/206339, /c/profile/156055, /c/profile/195574
+Idea: Iagon Network Explorer V1 | Idea link: /c/idea/123358 | Author links: /c/profile/182356
+Idea: MVP for a Restaking Platfor on Cardano | Idea link: /c/idea/123345 | Author links: /c/profile/206424
+Idea: Bug Bounty Platfrom: move from concept to MVP | Idea link: /c/idea/123320 | Author links: /c/profile/191441
+Idea: ADABET.iO | Sport Betting On-Chain MVP version | Idea link: /c/idea/123307 | Author links: /c/profile/174306, /c/profile/159117, /c/profile/172180, /c/profile/172687, /c/profile/174306, /c/profile/159117, /c/profile/172180, /c/profile/172687
+Idea: Empowering Cardano Ecosystem with Tailored AI: Proposal for Developing Custom Trained Chatbots for 10 Cardano Native Projects | Idea link: /c/idea/123283 | Author links: /c/profile/206234
+Idea: DMM: Your Web3 Outlet Marketplace for Everyday Needs | Idea link: /c/idea/123265 | Author links: /c/profile/178644
+Idea: [BananaClip] - Harnessing Cardano to Transform Casual Games for 25% of Humanity with Seamless Web2 Onboarding | Idea link: /c/idea/123244 | Author links: /c/profile/203349
+Idea: CHARLI3: Partner-chain Oracle use-case implementation | Idea link: /c/idea/123228 | Author links: /c/profile/162079, /c/profile/157737
+Idea: Csign - Sign, Certify, and Verify Agreements | Idea link: /c/idea/123220 | Author links: /c/profile/153139, /c/profile/191028, /c/profile/195390, /c/profile/201429, /c/profile/153139, /c/profile/191028, /c/profile/195390, /c/profile/201429
+Idea: Coin Catcher : tools for data privacy, personal AI, and data monetization, across multiple blockchains | Idea link: /c/idea/123154 | Author links: /c/profile/203704, /c/profile/182830
+Idea: UNBOX: Launching Cardano’s first Native Programmable Token | Idea link: /c/idea/123127 | Author links: /c/profile/183435
+Idea: Cross Chain Caravan: Driving Adoption, Education, and Community Engagement (MVP) | Idea link: /c/idea/123115 | Author links: /c/profile/170148
+Idea: Ikigai | Free, Walletless CIP-68 Minting Platform and Tooling | Idea link: /c/idea/123059 | Author links: /c/profile/206324, /c/profile/137036
+Idea: ADACastPro | Idea link: /c/idea/123043 | Author links: /c/profile/206325
+Idea: GenAI developer platform to build, test, audit, deploy & secure dApps on Cardano | Idea link: /c/idea/123039 | Author links: /c/profile/200357
+Idea: CSWAP Systems: Apple/Android Wallet ADA Pass (NFC) | Idea link: /c/idea/123012 | Author links: /c/profile/189957
+Idea: Arena Universe. One for all | Idea link: /c/idea/123010 | Author links: /c/profile/205315, /c/profile/205850
+Idea: Proof of Participation Token System | Idea link: /c/idea/123002 | Author links: /c/profile/172992, /c/profile/205969
+Idea: [Torii] Shopify Plugin (free) - Expanding Reach to Cardano Collections | Idea link: /c/idea/122980 | Author links: /c/profile/206307
+Idea: Impact Web3’s Proof of Impact Platform - Scaling Positive Impact Bridging Cardano4Good Projects to the Wider Sustainability World | Idea link: /c/idea/122951 | Author links: /c/profile/191158, /c/profile/127982, /c/profile/130561, /c/profile/177838, /c/profile/191158, /c/profile/127982, /c/profile/130561, /c/profile/177838
+Idea: XSY - On-chain DApp Certifications | Idea link: /c/idea/122903 | Author links: /c/profile/132825, /c/profile/191172
+Idea: µgraph: Instant, Untraceable Payments in Cardano | Idea link: /c/idea/122901 | Author links: /c/profile/204510
+Idea: ADA Solar: Collaborative Solar Energy Investment Platform on Cardano | Idea link: /c/idea/122899 | Author links: /c/profile/136975, /c/profile/165573
+Idea: AdaLink: Multichain Tip Links | Idea link: /c/idea/122898 | Author links: /c/profile/183374, /c/profile/190796
+Idea: KeySphere: Simpler self-custody using Yubikeys | Idea link: /c/idea/122893 | Author links: /c/profile/182749
+Idea: Enterprise-Grade B2B Payments in ₳ - Bridging the Gap Between Coinbase and Oracle NetSuite with Bitwave | Idea link: /c/idea/122850 | Author links: /c/profile/195975
+Idea: Snekx: Cardano’s Best Platform to Kickstart and Promote New Communities and Digital Assets | Idea link: /c/idea/122838 | Author links: /c/profile/195216
+Idea: Kaivest: The Comprehensive Crypto Analytics & Trading Platform Powered by AI and Smart Money Data on Cardano. | Idea link: /c/idea/122836 | Author links: /c/profile/200061
+Idea: SPACIOM - The Future of Brand Experience & E-Commerce | Idea link: /c/idea/122767 | Author links: /c/profile/191053, /c/profile/189770
+Idea: SNEKbot: A Telegram Trading Bot to Onboard 900M Monthly Active Users to Cardano | Idea link: /c/idea/122755 | Author links: /c/profile/195423
+Idea: Extending Cardano Mempool Explorer for user level analytics | Idea link: /c/idea/122753 | Author links: /c/profile/132399
+Idea: RealToro Real Assets Registry - Mortgage Smart Contract Test Trials, UI Development, and Audit | Idea link: /c/idea/122745 | Author links: /c/profile/157194
+Idea: GridRepublic LLM: Intelligence-as-a-Service for the Cardano Ecosystem | Idea link: /c/idea/122743 | Author links: /c/profile/204301, /c/profile/159190, /c/profile/170147, /c/profile/190071, /c/profile/204301, /c/profile/159190, /c/profile/170147, /c/profile/190071
+Idea: Plats - A Comprehensive Cardano Event Platform - Increase Cardano Use Cases by NFT distribution & ADA Depositing and Rewarding | Idea link: /c/idea/122727 | Author links: /c/profile/190544, /c/profile/189961, /c/profile/190545
+Idea: SoundRig: An Innovative Music Experience Platform to Onboard Music Fans and Empower Global Music Artists on Cardano | Idea link: /c/idea/122710 | Author links: /c/profile/191317, /c/profile/130227
+Idea: Universal Loyalty Program - DisKup0N | Idea link: /c/idea/122707 | Author links: /c/profile/190620
+Idea: The bridge from JAPAN to LATAM, by Token Allies DAO | Idea link: /c/idea/122704 | Author links: /c/profile/183487, /c/profile/157968, /c/profile/159645
+Idea: RYP/Reach Your People: Governance, Stakepool and on-chain activity right to your inbox | Idea link: /c/idea/122619 | Author links: /c/profile/148669
+Idea: Launching Landano land rights on Cardano mainnet | Idea link: /c/idea/122617 | Author links: /c/profile/190855, /c/profile/132221, /c/profile/136333, /c/profile/190878, /c/profile/190855, /c/profile/132221, /c/profile/136333, /c/profile/190878
+Idea: Video DAOs for Grassroots Community Learning Hubs | Idea link: /c/idea/122611 | Author links: /c/profile/128055, /c/profile/190461, /c/profile/200037, /c/profile/128055, /c/profile/190461, /c/profile/200037
+Idea: Extension of Onchain Social Payment directory to Cardano addresses | Idea link: /c/idea/122570 | Author links: /c/profile/205957
+Idea: Intgbles: Web3 interface for post-physical art | Idea link: /c/idea/122558 | Author links: /c/profile/134605
+Idea: SlapVentures: Developing Interactive Educational Experiences for Young Learners | Idea link: /c/idea/122517 | Author links: /c/profile/135709, /c/profile/144917
+Idea: Pschola - Decentralized Education Powered By Cardano | Idea link: /c/idea/122447 | Author links: /c/profile/200502
+Idea: Web3 Carbon Dashboard with PositiveBlockchain & ECOTA | Idea link: /c/idea/122434 | Author links: /c/profile/177256, /c/profile/191436, /c/profile/177256, /c/profile/191436
+Idea: Cardano on BigQuery: open, fast and easy querying of on-chain data | Idea link: /c/idea/122374 | Author links: /c/profile/190996, /c/profile/190990
+Idea: Boosting Cardano's Share in Web3 Gaming. | Idea link: /c/idea/122354 | Author links: /c/profile/199690, /c/profile/145771, /c/profile/203543
+Idea: Hungry App: food ordering service with low takeout fees and high driver pay | Idea link: /c/idea/122330 | Author links: /c/profile/190895, /c/profile/205905
+Idea: Cardano Beam - GPS Smart Contracts | Idea link: /c/idea/122323 | Author links: /c/profile/133000
+Idea: Cardano Search - The Intuitive Explorer | Idea link: /c/idea/122312 | Author links: /c/profile/192978
+Idea: Anywall and Cur8 Optimized Display Hardware and Software | Idea link: /c/idea/122302 | Author links: /c/profile/181622
+Idea: Adapting On-Chain Reputation to Catalyst Voices | Idea link: /c/idea/122267 | Author links: /c/profile/202098
+Idea: Profile NFTs - Customizable NFT Webpage w/ user data on-chain in datums | Idea link: /c/idea/122181 | Author links: /c/profile/196011
+Idea: Open Source Decentralized On-Chain Ecosystem Mapping Tool | Idea link: /c/idea/122149 | Author links: /c/profile/197936, /c/profile/129910, /c/profile/157004
+Idea: Metera Protocol DEX Aggregator Integration | Idea link: /c/idea/122136 | Author links: /c/profile/190299, /c/profile/181896
+Idea: [TRADYCAR] Eliminating Fraud from the Used Car Market and Adding Trusted Vehicle History with dNFTs | Idea link: /c/idea/122112 | Author links: /c/profile/194754
+Idea: Make Cardano look great: Design as a Service Web3 Agency for Projects | Idea link: /c/idea/122102 | Author links: /c/profile/190283
+Idea: Do you want a Go Cardano node? Because this is how you get a Go Cardano node! | Idea link: /c/idea/122096 | Author links: /c/profile/189944, /c/profile/170350, /c/profile/181779
+Idea: Subbit.xyz : Cardano's featherweight L2 | Idea link: /c/idea/122085 | Author links: /c/profile/158731
+Idea: Skybrain Neurotech : Advancing Neurotech with Cardano | Idea link: /c/idea/122060 | Author links: /c/profile/195406, /c/profile/170633
+Idea: Real-world job contract signing on Cardano utilizing SSI | Idea link: /c/idea/122045 | Author links: /c/profile/172112, /c/profile/172112
+Idea: unfra.me - Easy wallet login for games/apps | Idea link: /c/idea/122021 | Author links: /c/profile/140091
+Idea: Dedium open source Node-Client integration of Midnight | Idea link: /c/idea/122007 | Author links: /c/profile/200917
+Idea: BOWERY-ocfug: updating traditional bricks & mortar green grocery that lives in web 3 | Idea link: /c/idea/121999 | Author links: /c/profile/195502, /c/profile/195502
+Idea: Wine Supply Chain Tracking and Reporting System | Idea link: /c/idea/121983 | Author links: /c/profile/152059, /c/profile/195111
+Idea: Cardano-Powered Generative AI Services | Idea link: /c/idea/121969 | Author links: /c/profile/134143, /c/profile/133546, /c/profile/165253, /c/profile/200176, /c/profile/134143, /c/profile/133546, /c/profile/165253, /c/profile/200176
+Idea: Open source "Human Likelihood Score" (HLS) for Cardano wallets, to increase trust amongst Cardano's users. | Idea link: /c/idea/121938 | Author links: /c/profile/159413
+Idea: NovaEarn: Cardano Tap-tap game on Telegram bot | Idea link: /c/idea/121923 | Author links: /c/profile/190667
+Idea: Chaincrib | Tokenizing Real Estate Properties On Cardano | Idea link: /c/idea/121896 | Author links: /c/profile/199585, /c/profile/199584, /c/profile/199586, /c/profile/199606, /c/profile/199795, /c/profile/199585, /c/profile/199584, /c/profile/199586, /c/profile/199606, /c/profile/199795
+Idea: AMPDid: Effortless Web3 Authentication | Idea link: /c/idea/121883 | Author links: /c/profile/145733, /c/profile/191328, /c/profile/191903
+Idea: Empowerment of web2 developers to build on Cardano ecosystem | Idea link: /c/idea/121865 | Author links: /c/profile/203289
+Idea: Satellite Agriculture dApps with DigiFarm & NMKR | Idea link: /c/idea/121830 | Author links: /c/profile/178126
+Idea: Rare Events Mobile App: Cardano NFT Ticketing & Conference Goer Platform - Powered by Rare Network / Rare Evo | Idea link: /c/idea/121817 | Author links: /c/profile/191356, /c/profile/191362, /c/profile/191363
+Idea: Coffee Carbon credits Sold at NMKR triggers $9 trillion in Climate change finance for Cardano | Idea link: /c/idea/121796 | Author links: /c/profile/190397
+Idea: PREMINT on Cardano: A Decentralized Allowlist Platform | Idea link: /c/idea/121785 | Author links: /c/profile/176890
+Idea: Grow Cardano DeFi with transparent on-chain Fund Management platform | Idea link: /c/idea/121780 | Author links: /c/profile/200443, /c/profile/189703
+Idea: ICanProveIt - proof of learning for continues learners | Idea link: /c/idea/121745 | Author links: /c/profile/205294
+Idea: MAYZ Cardano Index Funds: Escrow Smart Contracts | Idea link: /c/idea/121684 | Author links: /c/profile/199738, /c/profile/153288, /c/profile/182250, /c/profile/190162, /c/profile/199738, /c/profile/153288, /c/profile/182250, /c/profile/190162
+Idea: From Vacancy to Vitality: Cardano DAO and RWAs Transforming 424,000 Homes into $33 Billion Economic Hubs | Idea link: /c/idea/121664 | Author links: /c/profile/203820, /c/profile/203037
+Idea: enigmi - Live, Gamified, Multiplayer NFT Platform MVP | Idea link: /c/idea/121608 | Author links: /c/profile/179343
+Idea: AI Powered Tokenization of Regenerative Assets on Cardano | Idea link: /c/idea/121355 | Author links: /c/profile/200038
+Idea: Cardano Forest [blocktree.asia] - Foster Trust in Reforestation Impact Report - Apply iOTs in Collecting Forest Data | Idea link: /c/idea/121211 | Author links: /c/profile/190877, /c/profile/170025
+Idea: The social platform that realizes blockchain authentication even in environments without the internet | Idea link: /c/idea/121068 | Author links: /c/profile/200513, /c/profile/131280
+Idea: CogSkins: learning validation tool | Idea link: /c/idea/120981 | Author links: /c/profile/204249
+Idea: Earn ADA while studying! | Idea link: /c/idea/120937 | Author links: /c/profile/199112
+Idea: KWARXS + MLabs - "Fracturizing: Revolutionize, Evolve" | Idea link: /c/idea/120899 | Author links: /c/profile/189969
+Idea: Wallet Integration with OLI Education Platform to Increase Direct User Onboarding to the Cardano Ecosystem | Idea link: /c/idea/120831 | Author links: /c/profile/204005, /c/profile/200136
+Idea: Splash - Simplifying Catalyst Proposal Discovery for Token Holders & Stake Pool Delegators | Idea link: /c/idea/120796 | Author links: /c/profile/182368
+Idea: Decentralized Sports Betting with transparency - betttingAda.com | Idea link: /c/idea/120758 | Author links: /c/profile/197006
+Idea: BTC/ETH smart accounts on Cardano | Idea link: /c/idea/120749 | Author links: /c/profile/190989, /c/profile/177657
+Idea: cardano blind game | Idea link: /c/idea/120734 | Author links: /c/profile/132682
+Idea: [ADAXON] BlueTick: Privacy-First Cardano-based Instant Messaging Solution | Idea link: /c/idea/120722 | Author links: /c/profile/195041, /c/profile/159733
+Idea: [bLott] Transparency OnChain Self-Govern Lottery System | Idea link: /c/idea/120706 | Author links: /c/profile/180006, /c/profile/168020
+Idea: Cardano Marketplace SDK | Idea link: /c/idea/120670 | Author links: /c/profile/182228, /c/profile/160433, /c/profile/163797, /c/profile/180457, /c/profile/181041, /c/profile/191479, /c/profile/182228, /c/profile/160433, /c/profile/163797, /c/profile/180457, /c/profile/181041, /c/profile/191479
+Idea: Tokenized Solar PV Ownership on Cardano (RWAs): Renewable Energy Fractions Platform | Idea link: /c/idea/120615 | Author links: /c/profile/182926
+Idea: CoverCrypto: Cardano NFTs as cryptoasset insurance documentation | Idea link: /c/idea/120522 | Author links: /c/profile/202057
+Idea: Citaldoc Health Token + A.I. Agents for Medical, Psychology & Nutrition + Multilingual & Global | Idea link: /c/idea/120514 | Author links: /c/profile/153057, /c/profile/140902, /c/profile/176143, /c/profile/190225, /c/profile/153057, /c/profile/140902, /c/profile/176143, /c/profile/190225
+Idea: MindHealer (old psywork.shop) - portal for Mental Health with payments in ADA and CNA (MVP) | Idea link: /c/idea/120511 | Author links: /c/profile/178271, /c/profile/189912
+Idea: Knowledge Ledger: Revolutionizing Learning & Development on Cardano | Idea link: /c/idea/120473 | Author links: /c/profile/190865, /c/profile/206886
+Idea: Ucheckin - A ZKP Hotel Reservation Platform with Ada as mode of payment | Idea link: /c/idea/120410 | Author links: /c/profile/195389
+Idea: Diverse Subscription Services on Cardano | Idea link: /c/idea/120199 | Author links: /c/profile/199552, /c/profile/145477
+Idea: Fida - (Re)Insurance Investment Marketplace | Idea link: /c/idea/120188 | Author links: /c/profile/128746, /c/profile/131415, /c/profile/157651
+Idea: TripHut + MLabs: Mainnet launch! | Idea link: /c/idea/120141 | Author links: /c/profile/181629, /c/profile/129218
+Idea: An all-in-one crypto accounting system compatible with tax regulations, including those of Japan, and also supporting staking and DeFi transactions. | Idea link: /c/idea/120119 | Author links: /c/profile/201705, /c/profile/203117
+Idea: BitBhoomi: Democratizing the Sustainability Sector & Carbon Trading Using Blockchain | Idea link: /c/idea/120071 | Author links: /c/profile/198199
+Idea: DAPP ADIUVAT | Idea link: /c/idea/119982 | Author links: /c/profile/175648, /c/profile/128763
+Idea: Buy ADA instantly by bank transfer | Idea link: /c/idea/119980 | Author links: /c/profile/194628, /c/profile/161271
+Idea: TapTools: Develop Mobile App for Android and iOS | Idea link: /c/idea/119966 | Author links: /c/profile/182069
+Idea: DLT360: auditShare - A Powerful Audit Sharing Platform (MVP) | Idea link: /c/idea/119964 | Author links: /c/profile/170175, /c/profile/129562, /c/profile/157950, /c/profile/161151, /c/profile/167483, /c/profile/170175, /c/profile/129562, /c/profile/157950, /c/profile/161151, /c/profile/167483
+Idea: Seed Safe: Your Secure and Completely Decentralised Wallet Seed Phrase Recovery Manager. | Idea link: /c/idea/119930 | Author links: /c/profile/181581, /c/profile/137170, /c/profile/142724, /c/profile/166712, /c/profile/189327, /c/profile/181581, /c/profile/137170, /c/profile/142724, /c/profile/166712, /c/profile/189327
+Idea: PAINS - Decentralized Peer to Peer Crypto Insurance Ecosystem on Cardano | Idea link: /c/idea/119677 | Author links: /c/profile/193681, /c/profile/154521
+Idea: Blockchain-Based Identity Management with DID & SSI Integration for National Systems | Idea link: /c/idea/119613 | Author links: /c/profile/201297
+Idea: AI & ZKP-Based Mental Healthcare Platform - BridgingSpace | Idea link: /c/idea/119423 | Author links: /c/profile/188541
+Idea: Anatta: Token 360, Portfolio, Notification, Chat | Idea link: /c/idea/119211 | Author links: /c/profile/159298
+Idea: Mobile App to track SPO performance | Idea link: /c/idea/119078 | Author links: /c/profile/195966, /c/profile/194750
+Idea: Developers Profiles: Cardano Community Support Platform | Idea link: /c/idea/118894 | Author links: /c/profile/139160, /c/profile/182997
+Idea: HealthPilot: Navigating a New Era in Healthcare with AI and Blockchain Innovation | Idea link: /c/idea/118732 | Author links: /c/profile/193972
+
+Category title: Cardano Open: Ecosystem
+Idea: Witzil: using the Cardano Blockchain to bring decentralized, collaborative change to Mexican urban environments | Idea link: /c/idea/123680 | Author links: /c/profile/139759
+Idea: Cardano is one of the top 5 cryptocurrencies pioneers in the world but only few know about it, especially Ghana. | Idea link: /c/idea/123666 | Author links: /c/profile/192762
+Idea: Cardano Ghana Community Expansion | Idea link: /c/idea/123663 | Author links: /c/profile/169085
+Idea: Hands-on marketing: universities and tech hubs | Idea link: /c/idea/123658 | Author links: /c/profile/189201, /c/profile/178661
+Idea: 📚🔬 An Educational Hub for Decentralised Science on Cardano | Idea link: /c/idea/123652 | Author links: /c/profile/206489
+Idea: NERDS ❤️ LATAM: Cardano hackathon series | Idea link: /c/idea/123649 | Author links: /c/profile/206482, /c/profile/201217
+Idea: Latam HackerSpace Hub: Perú | Idea link: /c/idea/123646 | Author links: /c/profile/206502
+Idea: Cardano City Challenge: Croatia Meetup | Idea link: /c/idea/123645 | Author links: /c/profile/195257, /c/profile/195323
+Idea: Demystifying Cardano: A Bootcamp for Beginners | Idea link: /c/idea/123639 | Author links: /c/profile/190462, /c/profile/156800, /c/profile/181840
+Idea: Catalyst Onboarding Pipeline Management Platform | Idea link: /c/idea/123622 | Author links: /c/profile/195419, /c/profile/198911
+Idea: EXTENDING CARDANO PARTICIPATION TO WOMEN IN GHANA | Idea link: /c/idea/123610 | Author links: /c/profile/180883, /c/profile/189772, /c/profile/204412, /c/profile/180883, /c/profile/189772, /c/profile/204412
+Idea: Brailie | Empowering Cardano Growth in Africa & Latin America | Idea link: /c/idea/123607 | Author links: /c/profile/206282, /c/profile/138024
+Idea: Empowering Ethiopia: A Cardano-Centric Crypto Hub | Idea link: /c/idea/123580 | Author links: /c/profile/206470
+Idea: Showcasing Cardano NFTs and Artists at NFT.DXB in UAE (Highlighting Cardano NFTs to the Arab Region) | Idea link: /c/idea/123578 | Author links: /c/profile/160940, /c/profile/183212
+Idea: Daily podcast about the Cardano ecosystem news (in Portuguese) | Idea link: /c/idea/123564 | Author links: /c/profile/129608, /c/profile/128032
+Idea: Students in Cardano: Campus Cardano Clubs | Idea link: /c/idea/123548 | Author links: /c/profile/170999
+Idea: IncorpoNation.io: Enhancement of a country finder tool for Cardano projects | Idea link: /c/idea/123534 | Author links: /c/profile/206471, /c/profile/194382
+Idea: Building the Future: Partnering to Create Chile's Leading Blockchain Lab | Idea link: /c/idea/123532 | Author links: /c/profile/132117
+Idea: HiW3 - Humans in Web3, a recruitment and consulting services provider | Idea link: /c/idea/123527 | Author links: /c/profile/206373, /c/profile/188413
+Idea: Bridging Worlds: Empowering Cardano through Global Event Outreach | Idea link: /c/idea/123510 | Author links: /c/profile/190302, /c/profile/169466
+Idea: Legal Support for Fund 12 Projects | Idea link: /c/idea/123494 | Author links: /c/profile/191289, /c/profile/192037
+Idea: Cardano Vietnam Developer Boot Camp & Hackathon | Idea link: /c/idea/123484 | Author links: /c/profile/206255
+Idea: United Caricatures | Idea link: /c/idea/123476 | Author links: /c/profile/194663, /c/profile/178123
+Idea: Cardano Credentials: Make skills visible, impactful and usable | Idea link: /c/idea/123474 | Author links: /c/profile/199856, /c/profile/199950
+Idea: Colombo Cardano Hackathon | Idea link: /c/idea/123466 | Author links: /c/profile/206444
+Idea: Cardano Woman Indonesia: University Ecosystem | Idea link: /c/idea/123433 | Author links: /c/profile/199863
+Idea: The Untapped Potential of Digital Space (Crypto) for SMS’s Businesses in Northern Ghana | Idea link: /c/idea/123432 | Author links: /c/profile/182455, /c/profile/169319
+Idea: Spark the Interest of French-speaking University Students With a Blockchain Knowledge Competition | Idea link: /c/idea/123421 | Author links: /c/profile/161341
+Idea: Cryptocurrencies in Africa - the current trends and the future opportunities | Idea link: /c/idea/123414 | Author links: /c/profile/199106
+Idea: Onboarding Africa’s largest crowdfunding platform BackaBuddy to Cardano with an innovative Learn2Earn initiative building on the success of 1 million crowdfunding users | Idea link: /c/idea/123382 | Author links: /c/profile/205681
+Idea: Cardano Hub Bali: Expats and Local Balinese people onboarding to the Cardano ecosystem | Idea link: /c/idea/123373 | Author links: /c/profile/200546
+Idea: Webtoon for attracting broader audience to Cardano | Idea link: /c/idea/123362 | Author links: /c/profile/194783, /c/profile/195588
+Idea: Cardano Evangelization: Introduction of Blockchain & Cardano for Students in the Indonesian City of Education | Idea link: /c/idea/123350 | Author links: /c/profile/194612
+Idea: TribalDAOs = InDIDgenous onboarding for South Pacific communities | Idea link: /c/idea/123341 | Author links: /c/profile/195482
+Idea: Sustainable ADA X Cattle Daddy X Clay Nation = TRIPLE SMASH | Idea link: /c/idea/123322 | Author links: /c/profile/205873, /c/profile/205873
+Idea: Incentivized Cardano and Blockchain Awareness creation campaign for the Ethiopian Community | Idea link: /c/idea/123316 | Author links: /c/profile/198794
+Idea: SocialFi: Building Bridges - Cardano Summit 2024 Side Event - Dubai | Idea link: /c/idea/123293 | Author links: /c/profile/202242
+Idea: CIP-1694 and Cardano Governance workshop - Bengaluru, India | Idea link: /c/idea/123284 | Author links: /c/profile/181732
+Idea: DRMZ Web3 Events: Spreading Web3 through Fun & Humor | Idea link: /c/idea/123279 | Author links: /c/profile/171101, /c/profile/197206
+Idea: [5PC] Cardano Journey - Cardano Education Podcast Series for the Vietnamese Community | Idea link: /c/idea/123263 | Author links: /c/profile/189371, /c/profile/188717
+Idea: "Cardano - A beginner's guide" in German language | Idea link: /c/idea/123260 | Author links: /c/profile/203884
+Idea: UNDP x Cardano: Blockchain initiative for city and industry networks | Idea link: /c/idea/123254 | Author links: /c/profile/202812
+Idea: Boost Cardano Africa Academy's Operations | Idea link: /c/idea/123248 | Author links: /c/profile/155790
+Idea: A Cardano-focused course for Japanese community (日本コミュニティ向けのカルダノに焦点を当てたコース) | Idea link: /c/idea/123232 | Author links: /c/profile/178665
+Idea: Integrated gym & blockchain education hub, bridging fitness & fostering community. | Idea link: /c/idea/123213 | Author links: /c/profile/199115
+Idea: genun | Cardano Clash eSports Event featuring Ascent: Rivals | Idea link: /c/idea/123212 | Author links: /c/profile/204020
+Idea: Cardano’s Global Creative Meme & Comic Series Event | Idea link: /c/idea/123191 | Author links: /c/profile/194787
+Idea: Blockchain Education Survey Among College Students | Idea link: /c/idea/123185 | Author links: /c/profile/206337, /c/profile/188155, /c/profile/193004
+Idea: Argentina, a 4.0 nation. | Idea link: /c/idea/123182 | Author links: /c/profile/206224, /c/profile/195520
+Idea: CARDANO LEAGUE - Marketing strategy that seeks to take advantage of the passion and interest that exists in Latin America for soccer and link this sport with Cardano, increasing visibility in the region, this being the most important sport. | Idea link: /c/idea/123173 | Author links: /c/profile/193091
+Idea: Crafting Blockchain Policy Framework for India | Idea link: /c/idea/123160 | Author links: /c/profile/206302
+Idea: CARDANO+ : Docuseries exploring the Cardano Ecosystem | Idea link: /c/idea/123156 | Author links: /c/profile/203545, /c/profile/202885, /c/profile/206001, /c/profile/206242, /c/profile/203545, /c/profile/202885, /c/profile/206001, /c/profile/206242
+Idea: Blue Charts Community | Idea link: /c/idea/123139 | Author links: /c/profile/206344, /c/profile/202213
+Idea: Adafro Labs Uganda Hackathon | Idea link: /c/idea/123132 | Author links: /c/profile/191045
+Idea: Proposal to Expand on Cardano Marketing and Relevant Content | Idea link: /c/idea/123122 | Author links: /c/profile/206260
+Idea: Establish a Cardano Global Land Rights Action NGO | Idea link: /c/idea/123110 | Author links: /c/profile/143444, /c/profile/169563, /c/profile/143444, /c/profile/169563
+Idea: LATAM: The Land of Builders 2.0 | Idea link: /c/idea/123093 | Author links: /c/profile/202843
+Idea: Cardano Ecosystem Agents - Framework & Roadmap | Idea link: /c/idea/123090 | Author links: /c/profile/143751
+Idea: Enrich the Cardano Community with engaging IRL events to drive adoption and encourage regional growth. | Idea link: /c/idea/123048 | Author links: /c/profile/195395
+Idea: Cardano Anti-Human Trafficking - BlockLiberate | Idea link: /c/idea/122999 | Author links: /c/profile/205278
+Idea: Education board game | Idea link: /c/idea/122972 | Author links: /c/profile/139009
+Idea: Building Development Team | Idea link: /c/idea/122959 | Author links: /c/profile/130391
+Idea: Cardano Meetups in Venezuela | Idea link: /c/idea/122935 | Author links: /c/profile/132624, /c/profile/206301
+Idea: Cardano Center Brisbane | Idea link: /c/idea/122897 | Author links: /c/profile/190846
+Idea: WTF is blockchain? Crypto Documentary (With a Twist!) Pre-Production Funding | Idea link: /c/idea/122896 | Author links: /c/profile/130480, /c/profile/128812, /c/profile/166250
+Idea: Cardano History | Idea link: /c/idea/122886 | Author links: /c/profile/206246
+Idea: Catalyst Mentors Accelerator- Empowering Teams to success | Idea link: /c/idea/122873 | Author links: /c/profile/167077
+Idea: Support DRep to connect Delegators (CIP-1694) | Idea link: /c/idea/122867 | Author links: /c/profile/203235
+Idea: Cardano Marketing: A Short-Form Content Marketing Campaign Run by Cardano Curation | Idea link: /c/idea/122861 | Author links: /c/profile/199748
+Idea: Sneks-on-Chain Media: The First Media Focused Production Incubator for Accelerating Cardano Content Creators | Idea link: /c/idea/122858 | Author links: /c/profile/206281
+Idea: CHAIN CITY by Cardano | Idea link: /c/idea/122852 | Author links: /c/profile/206253
+Idea: Legally enforceable contracts in ADA, in compliance with Argentine laws | Idea link: /c/idea/122847 | Author links: /c/profile/175983
+Idea: Cardano in LATAM radio | Idea link: /c/idea/122844 | Author links: /c/profile/188322
+Idea: Research project in the Wampis indigenous Nation about the uses of Blockchain to Self-governance | Idea link: /c/idea/122840 | Author links: /c/profile/197187
+Idea: New Book to Onboard to & Educate About Cardano's Ecosystem | Idea link: /c/idea/122839 | Author links: /c/profile/205890
+Idea: $DEMU: Impactful social community governance with ODIN | Idea link: /c/idea/122835 | Author links: /c/profile/190752
+Idea: Academic Research at UBA, one of the most prestigious Universities in LATAM, with focus on Decentralized Governance Research. | Idea link: /c/idea/122831 | Author links: /c/profile/178161, /c/profile/202808
+Idea: New Mexico Stake Pool-Cardano Education and Business Center (NMSP-CEBC) | Idea link: /c/idea/122830 | Author links: /c/profile/198462
+Idea: Cardano for Leos | Idea link: /c/idea/122792 | Author links: /c/profile/174785, /c/profile/195055
+Idea: Cardano Content with C3, Argentina's most active community | Idea link: /c/idea/122791 | Author links: /c/profile/206214
+Idea: Educational tool kit f/ legislators | Idea link: /c/idea/122784 | Author links: /c/profile/128066
+Idea: SciCh₳in: 🔬 Uniting DeSci with Cardano 🌉 - Bridging Science and Blockchain ⛓️ | Idea link: /c/idea/122778 | Author links: /c/profile/200406
+Idea: Cardano Innovation Network: ₳rgentina 2024 🧉- DeSci 🔬 and Governmental 🏛 Transformation Workshops | Idea link: /c/idea/122773 | Author links: /c/profile/200871
+Idea: Onboarding via physicals: Bringing first-timers to Cardano - Danketsu | Idea link: /c/idea/122750 | Author links: /c/profile/195430, /c/profile/202311
+Idea: Cardano Student Blockchain Innovators | Idea link: /c/idea/122722 | Author links: /c/profile/199082, /c/profile/182426
+Idea: LATAM Cardano 2024: Driving Crypto Adoption in Mexico | Idea link: /c/idea/122720 | Author links: /c/profile/167046, /c/profile/190604
+Idea: Gingerbread Squad Adult Animated Series on Cardano | Idea link: /c/idea/122702 | Author links: /c/profile/184531
+Idea: Grassroots Governance Community Forums | Idea link: /c/idea/122699 | Author links: /c/profile/143966
+Idea: The Malama Project: Maui Climate Summit | Idea link: /c/idea/122694 | Author links: /c/profile/173377, /c/profile/181479, /c/profile/206144, /c/profile/173377, /c/profile/181479, /c/profile/206144
+Idea: Cardano Africa Expansion Second Edition: Empowering Communities Through Physical Engagement | Idea link: /c/idea/122659 | Author links: /c/profile/189970
+Idea: Organizational habits and Principles: The Governance and Collaboration Study Group | Idea link: /c/idea/122606 | Author links: /c/profile/139096
+Idea: CardaCanto - Empowering Cantonese Women in Blockchain | Idea link: /c/idea/122602 | Author links: /c/profile/190109, /c/profile/190107
+Idea: Bring Tier 1 influencers to Cardano through Impact marketing. | Idea link: /c/idea/122597 | Author links: /c/profile/198562, /c/profile/198562
+Idea: Cardano for DeSci: Fostering Innovation and Collaboration in LATAM | Idea link: /c/idea/122594 | Author links: /c/profile/195016, /c/profile/199626, /c/profile/203449
+Idea: Governance, Mentorship and Educational Outreach in 5 Central America Countries | Idea link: /c/idea/122592 | Author links: /c/profile/196032
+Idea: Cardano Blockchain Toronto @ Blockchain Futurist Conference 2024 | Idea link: /c/idea/122581 | Author links: /c/profile/149832
+Idea: ODIN - Mentors Network to increase success of funded proposals | Idea link: /c/idea/122566 | Author links: /c/profile/146513
+Idea: Transition from Web2 to Cardano: Unlocking ecosystem opportunities for Persians | Idea link: /c/idea/122562 | Author links: /c/profile/170299, /c/profile/205925
+Idea: Awen - C-Suite | Cardano Creator Conference in Chicago | Idea link: /c/idea/122559 | Author links: /c/profile/134792, /c/profile/195316
+Idea: Cardano Antimicrobial Resistance (AMR) Awareness Campaign for Secondary and Tertiary Level Students in Sunyani/Bono Region-Ghana | Idea link: /c/idea/122557 | Author links: /c/profile/172322, /c/profile/179694, /c/profile/190610, /c/profile/172322, /c/profile/179694, /c/profile/190610
+Idea: The Universal Encyclopedia of Cardano - ALDEA WIKI Phase 2.0 (English - Portuguese - Spanish) | Idea link: /c/idea/122542 | Author links: /c/profile/165264
+Idea: Facilitated discussions for increasing Cardano's economy | Idea link: /c/idea/122526 | Author links: /c/profile/142127, /c/profile/191276, /c/profile/191279
+Idea: Establishment of the MyLugano Hub:  Web3 Innovation Center with Lugano Municipality Support | Idea link: /c/idea/122474 | Author links: /c/profile/206170
+Idea: Promoting Cardano: Incentives for Memes and Social Sharing that Showcase Principles, Core Values and Mission. Create, share, and earn while making a positive impact! | Idea link: /c/idea/122467 | Author links: /c/profile/173541
+Idea: Cardano for Females and Disabled Individuals - Educating and On-boarding females and Disabled people on Financial Literacy and Cardano Blockchain Technology | Idea link: /c/idea/122454 | Author links: /c/profile/194564, /c/profile/178671
+Idea: Konsensis: Educating Refugees on Cardano | Idea link: /c/idea/122438 | Author links: /c/profile/194987, /c/profile/189656, /c/profile/200142, /c/profile/194987, /c/profile/189656, /c/profile/200142
+Idea: Satirical animated series created through a community-driven process. | Idea link: /c/idea/122389 | Author links: /c/profile/195082
+Idea: Cardano Adoption Accelerator: Education & Awareness Initiative for Ethiopia | Idea link: /c/idea/122359 | Author links: /c/profile/199171
+Idea: Il Marchese del Crypto, Italian video content creator . | Idea link: /c/idea/122337 | Author links: /c/profile/198780
+Idea: The Future is Cardano - An Advertising Campaign | Idea link: /c/idea/122317 | Author links: /c/profile/160235
+Idea: LIL SHREDDAZ NFT : Sponsoring RWPs (Real World Persons) with $LSD | Idea link: /c/idea/122307 | Author links: /c/profile/195302
+Idea: ADA Ambassadors | Idea link: /c/idea/122296 | Author links: /c/profile/199927
+Idea: Mobile Learning Platform & Interactive Courses & Hackathons for Aiken & Python Development | Idea link: /c/idea/122247 | Author links: /c/profile/203146, /c/profile/191349
+Idea: Cardano Global Outreach Initiative | Idea link: /c/idea/122216 | Author links: /c/profile/199401
+Idea: Educate newcomers to Cardano with storytelling videos | Idea link: /c/idea/122209 | Author links: /c/profile/182073
+Idea: Cardano Ghana Campus Tour: Catalyzing Education and Adoption. | Idea link: /c/idea/122208 | Author links: /c/profile/194339, /c/profile/134785, /c/profile/178176, /c/profile/179297, /c/profile/194339, /c/profile/134785, /c/profile/178176, /c/profile/179297
+Idea: Cardano Unlocked: Engaging the Asian Market through 120 Instagram/TikTok Reels, Demo Video attached | Idea link: /c/idea/122202 | Author links: /c/profile/199474
+Idea: Raising Cardano Awareness through Open-Access scientific research for Green Hydrogen production and live events in partnership with the biggest university of Chile. | Idea link: /c/idea/122163 | Author links: /c/profile/179111
+Idea: Southern African Cardano Community (SACC): events, content and a hackathon in 4 Southern African countries | Idea link: /c/idea/122018 | Author links: /c/profile/205189, /c/profile/203370, /c/profile/204094
+Idea: "Fostering Local Blockchain Heroes: Igniting Student Leadership with the Cardano Ambassador Program" | Idea link: /c/idea/121989 | Author links: /c/profile/199614
+Idea: Adanote | 2 Cardano Workshops for secondary students and 1 Cardano Picture Book (both inspired by the japanese Course of Study guideline | 学習指導要領) | Idea link: /c/idea/121985 | Author links: /c/profile/128083
+Idea: Better Governance for Professional Groups with Cardano DAO Tools | Idea link: /c/idea/121979 | Author links: /c/profile/190957
+Idea: Media podcast on Cardano | Idea link: /c/idea/121973 | Author links: /c/profile/168160
+Idea: University student collective for Cardano | Idea link: /c/idea/121948 | Author links: /c/profile/168192, /c/profile/196120, /c/profile/168192, /c/profile/196120
+Idea: Minswap Cardano DeFi Onboarding: Marketing Program | Idea link: /c/idea/121875 | Author links: /c/profile/187702
+Idea: [C2VN]: Developing the Blockchain Lecturer Team at Universities in Vietnam | Idea link: /c/idea/121869 | Author links: /c/profile/154189, /c/profile/170990, /c/profile/178068, /c/profile/195333, /c/profile/154189, /c/profile/170990, /c/profile/178068, /c/profile/195333
+Idea: Waffle | SIDAN - Hong Kong Cardano Community | Idea link: /c/idea/121866 | Author links: /c/profile/203741
+Idea: [FIMI] Blockchain course for Vietnamese | Idea link: /c/idea/121864 | Author links: /c/profile/170307, /c/profile/173978
+Idea: Cardano Ecosystem Metaverse Experience on Roblox | Idea link: /c/idea/121863 | Author links: /c/profile/155071, /c/profile/191191
+Idea: Cardano Digital Education Library without Internet | Idea link: /c/idea/121809 | Author links: /c/profile/168916
+Idea: European Cardano Community Town Hall - Operation and Country Hubs | Idea link: /c/idea/121776 | Author links: /c/profile/184349, /c/profile/163295, /c/profile/184349, /c/profile/163295
+Idea: Empowering the Cardano Ecosystem Through Off/On-line Meetings in Makassar, South Sulawesi, Indonesia | Idea link: /c/idea/121765 | Author links: /c/profile/192077, /c/profile/192046, /c/profile/200428
+Idea: [CaFi] Cardano Explorers: Explore the Cardano Ecosystem | Idea link: /c/idea/121763 | Author links: /c/profile/190509
+Idea: Elevating DeFi with CRCI Reviews & Pledge of Excellence Program | Idea link: /c/idea/121760 | Author links: /c/profile/128134
+Idea: Unified Cardano Student Club SANDBOX: Where Startups and devs Collaborate to make an explosion | Idea link: /c/idea/121725 | Author links: /c/profile/200721, /c/profile/190675
+Idea: The Crypto Entente: An alliance against fraud and scams | Idea link: /c/idea/121717 | Author links: /c/profile/200932
+Idea: Creation of an Educational Cardano Hub for Thailand | Idea link: /c/idea/121707 | Author links: /c/profile/205312
+Idea: Expand Cardano in LATAM: Onboarding Builders for Ecosystem Growth | Idea link: /c/idea/121667 | Author links: /c/profile/178184, /c/profile/206635
+Idea: Cardano for STEM Brazilian Students | Idea link: /c/idea/121636 | Author links: /c/profile/139640, /c/profile/170956, /c/profile/172055, /c/profile/172327, /c/profile/139640, /c/profile/170956, /c/profile/172055, /c/profile/172327
+Idea: APRENDO & Cardano: Bridging Digital Divides Empowering Latam's Underprivileged Communities | Idea link: /c/idea/121631 | Author links: /c/profile/195074, /c/profile/172173, /c/profile/204082, /c/profile/204816, /c/profile/195074, /c/profile/172173, /c/profile/204082, /c/profile/204816
+Idea: Ethiopia: Cardano Dev Education | Idea link: /c/idea/121630 | Author links: /c/profile/199242
+Idea: Catalyst Education Springboard | Idea link: /c/idea/121615 | Author links: /c/profile/195009
+Idea: Effective Campaign Strategies: Latam DREP Candidate Workshops | Idea link: /c/idea/121613 | Author links: /c/profile/181812
+Idea: Turkish Cardano Initiation | Idea link: /c/idea/121604 | Author links: /c/profile/191428
+Idea: Innovatio Community & Services - (Spain & Andorra) - Attract new professionals, entrepreneurs, products and brands to the ecosystem and facilitate their adoption through networking, collaborations, consulting and development. | Idea link: /c/idea/121603 | Author links: /c/profile/132588
+Idea: Decentralized Finance Scholarship for Spanish Students in the Cardano Ecosystem | Idea link: /c/idea/121523 | Author links: /c/profile/194963, /c/profile/181952, /c/profile/187606, /c/profile/189825, /c/profile/195291, /c/profile/194963, /c/profile/181952, /c/profile/187606, /c/profile/189825, /c/profile/195291
+Idea: A crypto-themed techno song featuring Cardano's branding | Idea link: /c/idea/121496 | Author links: /c/profile/184468
+Idea: Cardano dictionary in 30 seconds | Idea link: /c/idea/121432 | Author links: /c/profile/168331
+Idea: Cardano Summit Vietnam 2024 | Idea link: /c/idea/121428 | Author links: /c/profile/157856
+Idea: dRep Ambassador | Idea link: /c/idea/121410 | Author links: /c/profile/179740
+Idea: Carnada, the first digital magazine about Cardano | Idea link: /c/idea/121401 | Author links: /c/profile/190678
+Idea: Book "How to launch an NFT Business" | Idea link: /c/idea/121360 | Author links: /c/profile/192198
+Idea: MAYZ & Fintech Chamber: Onboarding Institutional Investors & Web2 Entrepreneurs to Cardano | Idea link: /c/idea/121329 | Author links: /c/profile/182239
+Idea: "Exploring New Horizons: High School Summer Camp for Innovation and Growth" | Idea link: /c/idea/121314 | Author links: /c/profile/195447
+Idea: Development of AI Translation Catalyst Japanese Web Portal | Idea link: /c/idea/121284 | Author links: /c/profile/129522
+Idea: Treasury Analysis - Web3 Association | Idea link: /c/idea/121276 | Author links: /c/profile/190785, /c/profile/129508
+Idea: CLUB CARDANO IN BUKAVU: EXPANDING THE CARDANO BLOCKCHAIN COMMUNITY | Idea link: /c/idea/121272 | Author links: /c/profile/191046, /c/profile/189927, /c/profile/190693, /c/profile/197980, /c/profile/191046, /c/profile/189927, /c/profile/190693, /c/profile/197980
+Idea: Cardano Ethiopia Hub - Hub for Onboarding and Education | Idea link: /c/idea/121230 | Author links: /c/profile/199775
+Idea: Sustain and Maintain Gimbalabs | Idea link: /c/idea/121121 | Author links: /c/profile/161576, /c/profile/169551, /c/profile/161576, /c/profile/169551
+Idea: CTimelines Infographics - Documenting & Promoting Cardano's History | Idea link: /c/idea/121119 | Author links: /c/profile/163325, /c/profile/139393
+Idea: Kick for Cardano - Promoting The Cardano Ecosystem through Soccer | Idea link: /c/idea/121093 | Author links: /c/profile/181682, /c/profile/172177
+Idea: Cardano SPT (Special Promo Taskforce) | Idea link: /c/idea/121078 | Author links: /c/profile/204445
+Idea: Organising events that keep Cardano in the news in Japan | Idea link: /c/idea/121064 | Author links: /c/profile/199772
+Idea: Train taxi drivers in customer service and Cardano Project Catalyst. | Idea link: /c/idea/121044 | Author links: /c/profile/183536
+Idea: Blockchain Community Training and Mentorship: Leveraging blockchain education for participation | Idea link: /c/idea/121033 | Author links: /c/profile/204003, /c/profile/179961, /c/profile/180074, /c/profile/204003, /c/profile/179961, /c/profile/180074
+Idea: CardanoWallets.io v2 Upgrade | Idea link: /c/idea/121023 | Author links: /c/profile/190304, /c/profile/160139
+Idea: DRMZ Academy: Empowering Local Communities with Web3 | Idea link: /c/idea/121016 | Author links: /c/profile/182764
+Idea: Cardano Parties: Leveraging most famous Argentinian event producer to onboard new users. | Idea link: /c/idea/120993 | Author links: /c/profile/198769
+Idea: Japanese LLC DAO where 1 million people can join and contribute using Cardano's Dapps (From Japan to the World DAO) | Idea link: /c/idea/120988 | Author links: /c/profile/204063, /c/profile/128067, /c/profile/204911
+Idea: Voice of the Customer Program - Accelerating Product Market Fit | Idea link: /c/idea/120955 | Author links: /c/profile/200024
+Idea: [CaFi] Discover dApp on Cardano for Vietnamese | Idea link: /c/idea/120938 | Author links: /c/profile/184414
+Idea: Component 4/4: Cardano for a Responsible Revolution: Bridging Blockchain with Global Sustainability | Idea link: /c/idea/120920 | Author links: /c/profile/201316, /c/profile/203228
+Idea: Minswap Cardano DeFi Onboarding: Incentive Program | Idea link: /c/idea/120873 | Author links: /c/profile/200093, /c/profile/143020, /c/profile/193789
+Idea: Redefining Cardano Access and Innovation for Global Developer, Educator, and Researcher | Idea link: /c/idea/120871 | Author links: /c/profile/199466
+Idea: Cardano Governance Working Groups in Universities | Idea link: /c/idea/120864 | Author links: /c/profile/202985
+Idea: The Great Beyond - Season 2 | A Different Kind Of Podcast | Idea link: /c/idea/120857 | Author links: /c/profile/174586
+Idea: Cardano Workshop Jakarta PART II: Cardano Hub Jakarta Establishment | Idea link: /c/idea/120821 | Author links: /c/profile/199862
+Idea: Minswap Cardano DeFi Onboarding: Education Program | Idea link: /c/idea/120755 | Author links: /c/profile/127895
+Idea: EXTENDING CARDANO PARTICIPATION TO CHURCHES IN ACCRA, GHANA | Idea link: /c/idea/120713 | Author links: /c/profile/190653
+Idea: Cardano Cube Studios - Marketing & Media | Idea link: /c/idea/120700 | Author links: /c/profile/131931, /c/profile/135693, /c/profile/149039
+Idea: [PRO39] - Online Training Platform for Talents and Freelancers on Cardano ~ Udemy on Cardano | Idea link: /c/idea/120693 | Author links: /c/profile/190603
+Idea: Cardano.Build (aka BuildingOnCardano.dev) v2 Upgrade | Idea link: /c/idea/120646 | Author links: /c/profile/190809
+Idea: Onboarding Program in DR CONGO | Idea link: /c/idea/120624 | Author links: /c/profile/178325, /c/profile/178227, /c/profile/178260, /c/profile/184010, /c/profile/178325, /c/profile/178227, /c/profile/178260, /c/profile/184010
+Idea: Lido Nation Cardano Parameters Explorer | Idea link: /c/idea/120571 | Author links: /c/profile/158389
+Idea: Translate CBCA Course Into Vietnamese | Idea link: /c/idea/120568 | Author links: /c/profile/169844
+Idea: Cardano Awareness Campaigns in Ghana's Newly Created Regions | Idea link: /c/idea/120538 | Author links: /c/profile/183063
+Idea: SPO Online Business Academy | Idea link: /c/idea/120530 | Author links: /c/profile/179421
+Idea: Cardano Caravan Store: Education and Empowering Yoroi/Eternl/Nami Wallet Payments among students and Beyond | Idea link: /c/idea/120493 | Author links: /c/profile/194788
+Idea: CARDANO QR SCAVENGER: Bringing Discovery and exploriation of Cardano to Non-blockchain Communities | Idea link: /c/idea/120425 | Author links: /c/profile/195122
+Idea: Cardano Connect Indonesia: A new initiatives by Komunitas Cardano Indonesia | Idea link: /c/idea/120413 | Author links: /c/profile/138607
+Idea: Cardano Next Gen; Fostering Inclusivity Across Generations | Idea link: /c/idea/120409 | Author links: /c/profile/201345
+Idea: Network Sponsor for EXCESS 2024 - November 2nd. SoCal's leading multichain Web3 event in Orange County, California. | Idea link: /c/idea/120406 | Author links: /c/profile/202988
+Idea: [CC] Cardano_Wiki_QAchatbot | Idea link: /c/idea/120401 | Author links: /c/profile/189411, /c/profile/191484
+Idea: Onboarding women entrepreneurs in the Ivory Coast with Seedstars and Project Catalyst | Idea link: /c/idea/120399 | Author links: /c/profile/169863
+Idea: [C2VN]: Cardano blockchain courseware in Universities | Idea link: /c/idea/120387 | Author links: /c/profile/181802
+Idea: AI RAG Analysis of CIP 1694 | Idea link: /c/idea/120371 | Author links: /c/profile/140112, /c/profile/154999
+Idea: Guide to introduce Vietnamese children to the Cardano ecosystem | Idea link: /c/idea/120358 | Author links: /c/profile/183164
+Idea: Catalyst And Health Talk for the Aged in Accra Ghana | Idea link: /c/idea/120223 | Author links: /c/profile/182551, /c/profile/189966
+Idea: Cardano Connects: Cardano Meet-Ups in the Heart of the Caribbean and Central America | Idea link: /c/idea/120210 | Author links: /c/profile/202579, /c/profile/202617
+Idea: Ayokunmi Kamarudeen: Empowering Cardano through Network Marketers | Idea link: /c/idea/120190 | Author links: /c/profile/199442
+Idea: NFT Meme Collection : Vitalik Buterin (Founder & Inventor at Ethereum) on Cardano | Idea link: /c/idea/120184 | Author links: /c/profile/178094
+Idea: ElevateGhana: AIESEC Alliance- Unleashing Potential, Transforming Futures with Cardano Blockchain and Project Catalyst | Idea link: /c/idea/120157 | Author links: /c/profile/179042, /c/profile/128041
+Idea: Climate change and it effect on farmers. | Idea link: /c/idea/120135 | Author links: /c/profile/200249, /c/profile/199347
+Idea: (Denver,CO) Cardano Community Growth Initiative | Idea link: /c/idea/120036 | Author links: /c/profile/202131
+Idea: Fostering Portuguese Speaking Cardano Community | Idea link: /c/idea/120002 | Author links: /c/profile/144532, /c/profile/179395, /c/profile/183117
+Idea: Cardano sponsorship for Professional Fighter Michael Heckert | Idea link: /c/idea/119799 | Author links: /c/profile/130831, /c/profile/200366
+Idea: Cardinal - Putting Cardano DePIN on the map | Idea link: /c/idea/119788 | Author links: /c/profile/182409
+Idea: Cardano Hub Surabaya PART II: Content Creators and Industrial Partnership | Idea link: /c/idea/119674 | Author links: /c/profile/199857
+Idea: Expanding the Cardano community | Idea link: /c/idea/119649 | Author links: /c/profile/181062
+Idea: 100+ Page Ultimate Library of Cardano Tools - Adastack.io | Idea link: /c/idea/119612 | Author links: /c/profile/158652
+Idea: Empowering Ghana: Community Events and Cardano Ambassadors Unite for Progress | Idea link: /c/idea/119512 | Author links: /c/profile/196400
+Idea: 150 millions french-speaking young african with Cardano | Idea link: /c/idea/119473 | Author links: /c/profile/138682, /c/profile/191640
+Idea: Next Trend LAB: Empowering Cardano through Top Social Media Influencers | Idea link: /c/idea/119445 | Author links: /c/profile/195114, /c/profile/196167
+Idea: Cardano Uganda Academy : Strengthening the Cardano Community in Uganda through education. | Idea link: /c/idea/119358 | Author links: /c/profile/194890
+Idea: Cardano leading "Chain Reaction" Event: Web3 & Digital Assets policy & building | Idea link: /c/idea/119332 | Author links: /c/profile/199776
+Idea: Cardano Charity Platform | Idea link: /c/idea/119327 | Author links: /c/profile/199866
+Idea: Dumpling-Chinese speaking community+content | Idea link: /c/idea/119215 | Author links: /c/profile/139064
+Idea: Empowering Academic Communities: Bridging the Gap with Cardano Blockchain Education | Idea link: /c/idea/119185 | Author links: /c/profile/198152
+Idea: Translation of Cardano for the masses in Russian | Idea link: /c/idea/119177 | Author links: /c/profile/192172
+Idea: Boosting Cardano Adoption: A Comprehensive Content & Media Strategy | Idea link: /c/idea/119095 | Author links: /c/profile/181785
+Idea: Leveraging Blockchain for Student Entrepreneurship and Onboarding in Ghana | Idea link: /c/idea/119058 | Author links: /c/profile/183847
+Idea: Cardano in Spanish 2 | Idea link: /c/idea/119043 | Author links: /c/profile/128062
+Idea: Spanish Content for Social Media, Onboarding, and Education. | Idea link: /c/idea/119030 | Author links: /c/profile/190087
+Idea: Introduction to Cardano - Free Webinar in Spanish | Idea link: /c/idea/118984 | Author links: /c/profile/161734
+Idea: Cardano: Europe Tour (Events Across Europe) | Idea link: /c/idea/118979 | Author links: /c/profile/187855
+Idea: Greek OdyC DAO: Ecosystem awareness through nationwide scientific survey, educational conferences and multifunctional Web3 enabled hub. | Idea link: /c/idea/118939 | Author links: /c/profile/193648, /c/profile/188907, /c/profile/194940, /c/profile/198188, /c/profile/199067, /c/profile/193648, /c/profile/188907, /c/profile/194940, /c/profile/198188, /c/profile/199067
+Idea: 100,000+ Users Gain Premium Blockchain Features | Idea link: /c/idea/118927 | Author links: /c/profile/190301
+Idea: [CaFi] CatalystTalk for Vietnamese (Phase 2) | Idea link: /c/idea/118876 | Author links: /c/profile/181752, /c/profile/188337
+Idea: SCATDAO Monthly DYOR Competitions | Idea link: /c/idea/118863 | Author links: /c/profile/137909
+Idea: Business Mentoring to Scale Cardano Use Cases on the Ground | Idea link: /c/idea/118844 | Author links: /c/profile/168697
+Idea: CARDANO in Udemy | Idea link: /c/idea/118788 | Author links: /c/profile/136965
+Idea: Cardano Documentary: We are changing the world | Idea link: /c/idea/118710 | Author links: /c/profile/154919
+Idea: Rational management of plastic waste in the nyiragongo territory | Idea link: /c/idea/118702 | Author links: /c/profile/190224
+Idea: Cardano Developer Community Indonesia Workshop 2024-2025 | Idea link: /c/idea/118669 | Author links: /c/profile/199556, /c/profile/189951, /c/profile/191683
+Idea: Comprehensive Entry-Level Cardano Developer Workshop 2024-2025: Learning Web3 Development Using MeshJS and Aiken in Collaboration with MCU | Idea link: /c/idea/118660 | Author links: /c/profile/174628, /c/profile/190577
+Idea: Establish Regional Cardano Esports Team and Events Program | Idea link: /c/idea/118641 | Author links: /c/profile/201685
+Idea: A Cardano Hub in Nyiragongo to Empower an Underserved Region | Idea link: /c/idea/118616 | Author links: /c/profile/190524
+
+Category title: Cardano Use Cases: Concept
+Idea: Web3 Accelerator | Idea link: /c/idea/123685 | Author links: /c/profile/206571
+Idea: Chune.xyz: Empowering Music Creators with NFTs on Cardano | Idea link: /c/idea/123650 | Author links: /c/profile/206532
+Idea: ADI Health Protocol: A user centric health exchange system | Idea link: /c/idea/123647 | Author links: /c/profile/206506
+Idea: reTrOversE : A Members based peer-to-peer Environment for Content Creators @ the intersection of Collaborative Storytelling and Crypto x Ai | Idea link: /c/idea/123640 | Author links: /c/profile/194435
+Idea: Carda Sci: Decentralized Platform for Scientific Research | Idea link: /c/idea/123636 | Author links: /c/profile/206468
+Idea: Boosting Cardano DeFi with Real World Assets (RWAs) Yield | Idea link: /c/idea/123634 | Author links: /c/profile/206492, /c/profile/194635
+Idea: EasyRent: Facilitating Short-term Housing Leases and Flatshares in Switzerland with Cardano Smart Contracts | Idea link: /c/idea/123628 | Author links: /c/profile/206447
+Idea: AppStore mobile app + backend + infrastructure for Cardano Phone (Black Rocket Phone) | Idea link: /c/idea/123621 | Author links: /c/profile/138518
+Idea: SeedlingXchange :building a decentralized platform to connect farmers and global investors. | Idea link: /c/idea/123614 | Author links: /c/profile/199444
+Idea: dUSD: A fully decentralized stablecoin based on an open CDP | Idea link: /c/idea/123612 | Author links: /c/profile/128196
+Idea: EclipseDeFi: Private and Secure DeFi on Cardano's Midnight | Idea link: /c/idea/123559 | Author links: /c/profile/191459
+Idea: Cardano Base Mobile App | Idea link: /c/idea/123555 | Author links: /c/profile/183382
+Idea: Cleaning Natural: Accessible Eco-friendly Cleaning | Idea link: /c/idea/123491 | Author links: /c/profile/205309
+Idea: Dung beetle Dao, a decentralized waste management platform | Idea link: /c/idea/123475 | Author links: /c/profile/206343
+Idea: Creation of the ‘Crypto of Things’ and bringing non-tech and non-finance people closer to the ever growing blockchain industry. | Idea link: /c/idea/123470 | Author links: /c/profile/206410
+Idea: Cardano-based DID for RWA and Tokenized Assets | Idea link: /c/idea/123428 | Author links: /c/profile/203161, /c/profile/207927, /c/profile/207939
+Idea: Real World Farm Assets Tokenization Launchpad by Yenna Tech | Idea link: /c/idea/123411 | Author links: /c/profile/188000, /c/profile/191434
+Idea: Mapdano : A traveler's companion in undeveloped countries | Idea link: /c/idea/123401 | Author links: /c/profile/201376
+Idea: Decentralized potential customer generation service with AI-powered scoring | Idea link: /c/idea/123310 | Author links: /c/profile/182321
+Idea: Hugs not Rugs - A platform to salvage your old NFT's to earn passive tokens. | Idea link: /c/idea/123309 | Author links: /c/profile/206305
+Idea: Blockchain-Enabled AI Collaboration via Quatern.ai | Idea link: /c/idea/123255 | Author links: /c/profile/206365
+Idea: VERALIDITY 🔥Patent Owner Licensing and Management System🔥🚀 | Idea link: /c/idea/123243 | Author links: /c/profile/203736
+Idea: WorldAds: Smart Digital OOH Advertising On Vehicle Rooftops Powered By Cardano | Idea link: /c/idea/123234 | Author links: /c/profile/202365, /c/profile/204757
+Idea: Extended NFT Ownership models + NFT Equity stock option | Idea link: /c/idea/123227 | Author links: /c/profile/132376
+Idea: SpaceDoge: Transforming Blockchain Engagement for Global Impact | Idea link: /c/idea/123205 | Author links: /c/profile/202787
+Idea: Eonpower: Solar Solutions for Off-Grid Africa, Enhanced by Cardano | Idea link: /c/idea/123197 | Author links: /c/profile/205268, /c/profile/205270
+Idea: SDG3: Health App - Secure Data for Global Health | Idea link: /c/idea/123143 | Author links: /c/profile/204593
+Idea: HarvestHub | a decentralized marketplace on the cardano blockchain | Idea link: /c/idea/123114 | Author links: /c/profile/194875
+Idea: Enabling low latency interactive donations with Hydra during livestreams | Idea link: /c/idea/123111 | Author links: /c/profile/190172
+Idea: Blistering Advertising Network & Ad Campaign Life Cycle Smart Contract | Idea link: /c/idea/123103 | Author links: /c/profile/194907
+Idea: Business Lead Generation on Cardano | Idea link: /c/idea/123100 | Author links: /c/profile/154885
+Idea: Phase 1 - A comprehensive tool for streamlining insights for simplifying taxation reporting for Cardano transactions and assets. | Idea link: /c/idea/123041 | Author links: /c/profile/143502
+Idea: ".lockdoc" - Global Documentation Verification and Services | Idea link: /c/idea/122995 | Author links: /c/profile/177247
+Idea: Orcfax validators: reaching L2 consensus | Idea link: /c/idea/122979 | Author links: /c/profile/182819
+Idea: Track-and-Trace with Cardano: Growing Accountability, Harvesting Reliability | Idea link: /c/idea/122964 | Author links: /c/profile/205333
+Idea: Fractionalize RWAs into Native Tokens on Cardano (open source, no-code solution) | Idea link: /c/idea/122922 | Author links: /c/profile/188779
+Idea: TripOnChain: Traveling Without Borders on the Cardano Blockchain | Idea link: /c/idea/122916 | Author links: /c/profile/206245
+Idea: (Pension Funds) Solve global pension crisis | Idea link: /c/idea/122882 | Author links: /c/profile/191210, /c/profile/190015
+Idea: Summon: Verifiable Announcements | Idea link: /c/idea/122817 | Author links: /c/profile/195548, /c/profile/134260, /c/profile/135857, /c/profile/136367, /c/profile/195548, /c/profile/134260, /c/profile/135857, /c/profile/136367
+Idea: A Cardano-Powered AI-Enhanced Learning Platform | Idea link: /c/idea/122813 | Author links: /c/profile/181469
+Idea: Social Giveaways on Cardano | Idea link: /c/idea/122768 | Author links: /c/profile/128308
+Idea: AMPDSub: Smart-Subscription / Recurring Payments made easy! | Idea link: /c/idea/122732 | Author links: /c/profile/175350, /c/profile/191252, /c/profile/175350, /c/profile/191252
+Idea: Feasibility Research: Digital Identity for Soccer Players with Built in Player Transfer System | Idea link: /c/idea/122726 | Author links: /c/profile/205732
+Idea: Educational Reforestation Game | Idea link: /c/idea/122708 | Author links: /c/profile/162902
+Idea: Roguelite NFT Game - Cavern Carnage | Idea link: /c/idea/122697 | Author links: /c/profile/205616
+Idea: Add a Cardano Native Tokens basket on the leading platform for crypto-index trading | Idea link: /c/idea/122668 | Author links: /c/profile/180373
+Idea: Social Impact Marketplace (SIM) | Idea link: /c/idea/122663 | Author links: /c/profile/203695
+Idea: A ZK rollup layer 2 protocol for private key storage and retrival | Idea link: /c/idea/122657 | Author links: /c/profile/161746
+Idea: Scalable collection of off-chain data of Cardano projects facilitating data-driven, holistic and impartial evaluations. | Idea link: /c/idea/122655 | Author links: /c/profile/205996
+Idea: Maternal Mortality Crisis Solution - DoulaID: an identity app | Idea link: /c/idea/122651 | Author links: /c/profile/154486, /c/profile/158180
+Idea: Cardano Enterprise Solutions (CES) | Idea link: /c/idea/122640 | Author links: /c/profile/199551
+Idea: Empowering Cardano's Future Through Innovation, Media and Marketing. | Idea link: /c/idea/122603 | Author links: /c/profile/202820, /c/profile/202861, /c/profile/202864, /c/profile/202820, /c/profile/202861, /c/profile/202864
+Idea: ADA Processing – Easy-to-go ADA payment processing solution for marketplaces, online stores, and other digital platforms. | Idea link: /c/idea/122593 | Author links: /c/profile/200205
+Idea: From Old to New: Leadership For Hubs As Self Sustaining Web3 Edtech Providers | Idea link: /c/idea/122569 | Author links: /c/profile/169008
+Idea: Send tokens to phone number (API, onchain, offchain) | Idea link: /c/idea/122545 | Author links: /c/profile/172845
+Idea: 🐘🦏 Noah's B-Ark: Leveraging Cardano for the Preservation of Endangered Species 🐅🐋 | Idea link: /c/idea/122540 | Author links: /c/profile/206118, /c/profile/205184
+Idea: KERI Auth Identity Wallet with Cardano Attestation | Idea link: /c/idea/122535 | Author links: /c/profile/160822
+Idea: Laptop Donation Program for High-Achieving Students | Idea link: /c/idea/122512 | Author links: /c/profile/197837
+Idea: EcoMandala: Hexagonal NFTs for Geospatial Data Integrity on Cardano | Idea link: /c/idea/122449 | Author links: /c/profile/177288
+Idea: Hike2NFT - NFT Hiking Scavenger Hunt | Idea link: /c/idea/122444 | Author links: /c/profile/178620
+Idea: Walletless SSI with Passkeys | Idea link: /c/idea/122432 | Author links: /c/profile/129216
+Idea: Cardano Lightning Network (Phase 1) - Payment Gateways | Idea link: /c/idea/122403 | Author links: /c/profile/179701, /c/profile/172002
+Idea: MyCardanoTravelGuide - meet Cardano people - pay in ADA | Idea link: /c/idea/122402 | Author links: /c/profile/190044
+Idea: DriveChain | Idea link: /c/idea/122386 | Author links: /c/profile/196470, /c/profile/183254
+Idea: Cardano Universe: Blockchain RPG Adventure | Idea link: /c/idea/122382 | Author links: /c/profile/190662, /c/profile/188969, /c/profile/195228, /c/profile/190662, /c/profile/188969, /c/profile/195228
+Idea: Indian National Rupee-backed Stablecoin, Onboarding 35M Indian Web3 Users on Cardano | Idea link: /c/idea/122350 | Author links: /c/profile/191631
+Idea: Bringing Partisia Confidential Compute to Cardano Through Aiken Data Subscription Smart Contracts | Idea link: /c/idea/122327 | Author links: /c/profile/165210, /c/profile/138328
+Idea: [selfdriven|1] Integrating SSI, DID, and Soulbound Tokens with the Selfdriven educational framework for transformative education and credentialing. (Scientific Research) | Idea link: /c/idea/122287 | Author links: /c/profile/190643, /c/profile/195340, /c/profile/190643, /c/profile/195340
+Idea: Cardano Academia Chain | Idea link: /c/idea/122269 | Author links: /c/profile/178991, /c/profile/197981
+Idea: SureADA: Make your portfolio free of market and security risks | Idea link: /c/idea/122263 | Author links: /c/profile/193015
+Idea: Gamification of Liquidity Pools by Tavern Squad | Idea link: /c/idea/122238 | Author links: /c/profile/200307
+Idea: Customizable marketplace for new business | Idea link: /c/idea/122185 | Author links: /c/profile/195266
+Idea: Cardano Threat Intelligence: A Security Education Platform | Idea link: /c/idea/122116 | Author links: /c/profile/202201, /c/profile/142758
+Idea: ReMobile | Injecting Real World Asset (Second-hand Mobile Phones) into Cardano Ecosystem | Idea link: /c/idea/122068 | Author links: /c/profile/176999, /c/profile/178112
+Idea: d Studioz: Blockchain Media Suite | Idea link: /c/idea/122053 | Author links: /c/profile/168851
+Idea: Open source minting and burning system for NFT projects | Idea link: /c/idea/122039 | Author links: /c/profile/195432
+Idea: Psychology Therapy Sessions Distributed to People in Need for Free, "Coffee Monks" NFT+CNT Project | Idea link: /c/idea/122010 | Author links: /c/profile/205572
+Idea: Art Beyond Borders: NFT Global Youth Art Competition & Marketplace leveraging NMKR | Idea link: /c/idea/121917 | Author links: /c/profile/182111
+Idea: Mercury: Financials & TB Export | Idea link: /c/idea/121910 | Author links: /c/profile/201367
+Idea: NFT Stacking Game - Wealth War | Idea link: /c/idea/121907 | Author links: /c/profile/203962
+Idea: Open source dynamic assets (Token/NFT) generator (CIP68) | Idea link: /c/idea/121884 | Author links: /c/profile/190104, /c/profile/190527, /c/profile/193902, /c/profile/190104, /c/profile/190527, /c/profile/193902
+Idea: Bamboo Connect: The Gateway to Web3 Marketing and Community Building | Idea link: /c/idea/121868 | Author links: /c/profile/194939
+Idea: Masked NFT：Research on privacy data management by NFT | Idea link: /c/idea/121860 | Author links: /c/profile/195272
+Idea: Create NFTs By Providing Prompts For Non-Artist | Idea link: /c/idea/121857 | Author links: /c/profile/198040
+Idea: NFTLott | NFT Lottery gives lottery transparency to users and experiences NFTs in a unique way | Idea link: /c/idea/121835 | Author links: /c/profile/204531
+Idea: VNX - Licensed European non-usd stablecoins issuer on Cardano | Idea link: /c/idea/121826 | Author links: /c/profile/199587
+Idea: Manage your company using Cardano's Smart Contract | Idea link: /c/idea/121783 | Author links: /c/profile/189754
+Idea: VERKO: 3D & Digital Assets Marketplace, Contests, Funding Platform | Idea link: /c/idea/121708 | Author links: /c/profile/203708, /c/profile/203710, /c/profile/203711, /c/profile/203713, /c/profile/203708, /c/profile/203710, /c/profile/203711, /c/profile/203713
+Idea: Interactive Cardano Onboarder for All Apps (GuideLight) | Idea link: /c/idea/121644 | Author links: /c/profile/171956
+Idea: Cardano Event Platform: Empowering Event Management and Ticketing with ADA Integration | Idea link: /c/idea/121618 | Author links: /c/profile/191427
+Idea: Plastic Credits System on Cardano: A P2S Dapp for supporting Child Education using Plastic Credits | Idea link: /c/idea/121611 | Author links: /c/profile/195245
+Idea: Agora by ZKorum – a ZK-powered eDemocracy platform | Idea link: /c/idea/121553 | Author links: /c/profile/202031, /c/profile/201788
+Idea: Crypto Inheritance for Non-Tech Savvy Beneficiaries - Gen Wealth | Idea link: /c/idea/121517 | Author links: /c/profile/189795
+Idea: Clorofila: ReFi Scientific Articles Hub | Idea link: /c/idea/121503 | Author links: /c/profile/190413
+Idea: Cardano DeFi Innovation: AMM-based Lending/Borrowing Protocol | Idea link: /c/idea/121426 | Author links: /c/profile/199692
+Idea: ARISE - Indonesia’s Gateway To Web3 | Idea link: /c/idea/121423 | Author links: /c/profile/203724
+Idea: GamFi: Empowering Crypto Innovation through Comprehensive IGO Launchpad and Marketplace | Idea link: /c/idea/121404 | Author links: /c/profile/189360
+Idea: Cardano <-> Polkadot Light Client Bridge - Feasibility Study | Idea link: /c/idea/121371 | Author links: /c/profile/204788, /c/profile/195311, /c/profile/204788, /c/profile/195311
+Idea: Smart Ecosystem: Simplifying Reputation and Earning Reward | Idea link: /c/idea/121317 | Author links: /c/profile/202316
+Idea: Work for ADA Employment skill in Ethiopia | Idea link: /c/idea/121309 | Author links: /c/profile/190237
+Idea: Next Trend LAB: Disruptive Social Media Advertising Revenue Model [Pay-Per-Objective Decentralized Platform on Cardano]. | Idea link: /c/idea/121296 | Author links: /c/profile/199682
+Idea: BTC ordinals applied to Cardano | Idea link: /c/idea/121221 | Author links: /c/profile/140125
+Idea: Token use case with Multi Address wallet based on eUTXO model for social welfare system | Idea link: /c/idea/121208 | Author links: /c/profile/203843
+Idea: CARDANO MARKETPLACE VENEZUELA | Idea link: /c/idea/121108 | Author links: /c/profile/182127, /c/profile/199621, /c/profile/182127, /c/profile/199621
+Idea: Cardano Universal Tournament Bracket Builder | Idea link: /c/idea/121053 | Author links: /c/profile/201691
+Idea: AddonX: A skills and knowledge exchange platform using personalized tokens (PFTs) | Idea link: /c/idea/121045 | Author links: /c/profile/190280
+Idea: THE EASIEST WAY TO SEND AND RECEIVE CRYPTO (AND FIAT!) | Idea link: /c/idea/121006 | Author links: /c/profile/204321
+Idea: MARLOWE & CATALINK: OPTIMIZING RECYCLING FOR INCLUSIVE GROWTH IN BRAZIL | Idea link: /c/idea/120998 | Author links: /c/profile/199431, /c/profile/199431
+Idea: Tyyp - Your Tips, Decentralized.. -- Powered by the Cardano Network. | Idea link: /c/idea/120994 | Author links: /c/profile/167267, /c/profile/188344
+Idea: [Aladin] Smart Contract As A Service For Employment Platforms | Idea link: /c/idea/120940 | Author links: /c/profile/200869
+Idea: Cardano Nexus: Uniting Developers and the Community | Idea link: /c/idea/120881 | Author links: /c/profile/177353
+Idea: AgroTradeNet: Empowering Global Agriculture Through Cardano's Decentralized Infrastructure | Idea link: /c/idea/120738 | Author links: /c/profile/202063
+Idea: Long-Term Storage of NFTs for Token Holders | Idea link: /c/idea/120699 | Author links: /c/profile/154861
+Idea: AgriLens: Research & empowering Nepali farmers with real-time insights and image recognition technology | Idea link: /c/idea/120633 | Author links: /c/profile/189700
+Idea: RealFi Identity Development with Unbanked Savings and Lending Communities and Stakeholders On Cardano. | Idea link: /c/idea/120622 | Author links: /c/profile/167315
+Idea: Creating a Decentralized Football Ecosystem by building a dApp on Cardano that integrates with our smart soccer ball - Prototype | Idea link: /c/idea/120601 | Author links: /c/profile/164679
+Idea: Cardano & Polkadot Digital Marketplace Factory | Idea link: /c/idea/120525 | Author links: /c/profile/202193
+Idea: Artificial Intelligence Powered App for Currency Detection for the Visually Impaired | Idea link: /c/idea/120504 | Author links: /c/profile/134019
+Idea: Nexus: East Africa community based scam Reporting, Detecting and preventing mobile application | Idea link: /c/idea/120397 | Author links: /c/profile/198881
+Idea: Infrastructure Ventures + Maestro - Fundraising Platform | Idea link: /c/idea/120301 | Author links: /c/profile/190708
+Idea: Ubuntu_dApps: Decentralized Business Empowerment | Idea link: /c/idea/120011 | Author links: /c/profile/199920
+Idea: Learn to Earn - game engine | Idea link: /c/idea/119934 | Author links: /c/profile/154647
+Idea: SSI Integration for Car Sharing | Idea link: /c/idea/119830 | Author links: /c/profile/162014, /c/profile/195288
+Idea: FINGO Funding Instrument for Non Gubernamental Organizations | Idea link: /c/idea/119795 | Author links: /c/profile/194393, /c/profile/162440, /c/profile/191754
+Idea: Revolutionizing Real Estate: Cardano's Blockchain Powering Transparent Property Ownership and Seamless Transactions | Idea link: /c/idea/119564 | Author links: /c/profile/194994
+Idea: DNS on Cardano | Idea link: /c/idea/119260 | Author links: /c/profile/153675
+Idea: Decentralised, zero fee, monetisation and support platform for creators - read more on https://the.legion.gives | Idea link: /c/idea/119084 | Author links: /c/profile/166622
+Idea: Janus DeFi: An AI-powered flatcoin on Cardano | Idea link: /c/idea/118989 | Author links: /c/profile/199816
+Idea: From BIG Pharma to DECENTralized pharma, a huge opportunity to implement real-world change. | Idea link: /c/idea/118982 | Author links: /c/profile/194741
+Idea: Blaqk Stereo - DeDistribution and Music Mobile Dapp | Idea link: /c/idea/118922 | Author links: /c/profile/197142
+Idea: ADA Cashback from Top Retailers, for Cardano Wallets | Idea link: /c/idea/118893 | Author links: /c/profile/199779, /c/profile/199064
+Idea: Empowering Workforce Management: Leveraging Blockchain for Professional Identity in an $88.19bn Industry | Idea link: /c/idea/118798 | Author links: /c/profile/147341
+
+Category title: Cardano Use Cases: Product
+Idea: E-sign solution with Swisscom and DID (decentralized identifier) on Cardano | Idea link: /c/idea/123655 | Author links: /c/profile/206405, /c/profile/129040
+Idea: VYRA - Social Network | Idea link: /c/idea/123633 | Author links: /c/profile/206103
+Idea: Endubis wallet V2.0 | Upgrade of UI and more fiat withdrawals across Africa | Idea link: /c/idea/123632 | Author links: /c/profile/162074
+Idea: Genius Yield | Atlas 2.0: PAB improvements and advanced UTxO features | Idea link: /c/idea/123615 | Author links: /c/profile/190626
+Idea: Foreon Network | Decentralized Prediction Market On Cardano | Idea link: /c/idea/123603 | Author links: /c/profile/189743, /c/profile/206412, /c/profile/206516
+Idea: genun | eSport Sponsorship Solution - Ascent: Rivals | Idea link: /c/idea/123504 | Author links: /c/profile/191320, /c/profile/191757
+Idea: Revolutionize DAOs: Integrate KYC, KYB, KYT, AML into Clarity. Unlock Next-Level Decentralized Management on Cardano. | Idea link: /c/idea/123492 | Author links: /c/profile/135837, /c/profile/146635, /c/profile/166028, /c/profile/195515, /c/profile/135837, /c/profile/146635, /c/profile/166028, /c/profile/195515
+Idea: Integration of ADA and Cardano native assets for Custody and Tokenisation on Palisade Custody Platform | Idea link: /c/idea/123403 | Author links: /c/profile/203196, /c/profile/207914
+Idea: Begin Wallet Version 2 by Francis, Fluid and IAMX for Voting, Biometric Seedphrase, Payment Module shopify, Wallet can handle Bitcoin | Idea link: /c/idea/123366 | Author links: /c/profile/134236, /c/profile/134236
+Idea: [nftcdn.io] NSFW NFT Identification Tool | Idea link: /c/idea/123330 | Author links: /c/profile/178918
+Idea: DROPSPOT EMBEDDABLE MARKETPLACE | Idea link: /c/idea/123290 | Author links: /c/profile/195327
+Idea: NFT.Storage: Low-Cost, Transparent NFT Preservation for Cardano | Idea link: /c/idea/123280 | Author links: /c/profile/205573
+Idea: VyFinance Auto-Harvester | Idea link: /c/idea/123239 | Author links: /c/profile/193793, /c/profile/178793, /c/profile/183912, /c/profile/189893, /c/profile/193793, /c/profile/178793, /c/profile/183912, /c/profile/189893
+Idea: Cexplorer enhancements (rewamp, open-source, web3, SDK, API) | Idea link: /c/idea/123166 | Author links: /c/profile/128061
+Idea: Cardano Hub Orbler: Community Building In Bali, Indonesia | Idea link: /c/idea/122936 | Author links: /c/profile/201327, /c/profile/182353
+Idea: Speezard: Web3 project incubator, Co-created with 1200 builders from the ecosystem, helping impactful projects grow. | Idea link: /c/idea/122870 | Author links: /c/profile/204994
+Idea: 🚥🏎️🏁 Cardano Racers: Web3 GameFi DApp 🏁🏎️🚥 | Idea link: /c/idea/122854 | Author links: /c/profile/187974
+Idea: Bitcoin Runes on Cardano via Rosen Bridge | Idea link: /c/idea/122832 | Author links: /c/profile/128660, /c/profile/190721
+Idea: A Cardano Fortnite Experience - Realm Striders | Idea link: /c/idea/122818 | Author links: /c/profile/199828, /c/profile/129400
+Idea: Blockchain Academic Registry for Universities | Idea link: /c/idea/122563 | Author links: /c/profile/160480
+Idea: DAO DApp for on-chain community collaboration | Idea link: /c/idea/122468 | Author links: /c/profile/180344, /c/profile/182002
+Idea: Marlowe 2025 | Idea link: /c/idea/122392 | Author links: /c/profile/200247
+Idea: Cardano hunt in real life - Tubbly | Idea link: /c/idea/122293 | Author links: /c/profile/205951
+Idea: Work Courses: Onboarding The $142B EdTech Industry & The 70M Students Using Digital Learning To Cardano | Idea link: /c/idea/122050 | Author links: /c/profile/193860
+Idea: Satellite Oracles: Towards Trustless Dissemination of Earth Observation Data by TxPipe, NMKR & Gamma Earth | Idea link: /c/idea/122029 | Author links: /c/profile/131455, /c/profile/131455
+Idea: Cardano Native Integration on Transak for fiat-to-crypto on-ramp | Idea link: /c/idea/122008 | Author links: /c/profile/205577
+Idea: Walkers - Gamification for Mass Adoption! Discover the Next Level! Complete gamification on Pioneering GameFi ‘Walk2Earn’ app on Cardano | Idea link: /c/idea/121993 | Author links: /c/profile/195503
+Idea: Land Registry and Ownership document parser using Artificial Intelligence (AI) | Idea link: /c/idea/121808 | Author links: /c/profile/188121
+Idea: Decentralized ownership verification of Real estate assets | Idea link: /c/idea/121805 | Author links: /c/profile/181358
+Idea: Revuto - MASTERCARD integration >>> to bring Cardano Native Tokens to Debit Cards supporting crypto <<< and remove friction between crypto liquidity and real-world economic activities -> Subscription Payments! | Idea link: /c/idea/121727 | Author links: /c/profile/134196
+Idea: Plika - On-Chain Transaction Analysis Platform | Idea link: /c/idea/121640 | Author links: /c/profile/200360, /c/profile/182131, /c/profile/205810
+Idea: Cardano Warriors - Driving Cardano Adoption Through Mainstream Gaming Platforms | Idea link: /c/idea/121584 | Author links: /c/profile/132003
+Idea: VAULT3 token-gated forms - No-code platform to create and manage custom forms with access conditions. | Idea link: /c/idea/121488 | Author links: /c/profile/190899
+Idea: On Chain NFT Battle Card Game - SWAGGER | Idea link: /c/idea/121262 | Author links: /c/profile/191896
+Idea: VESPR Turbo | Idea link: /c/idea/121247 | Author links: /c/profile/194751
+Idea: Provide AI-Driven Growth Tools to Help Cardano Ecosystem Expand Adoption | Idea link: /c/idea/121173 | Author links: /c/profile/194917
+Idea: Enhancing the L-Earning Bazaar Platform and Onboarding New Personas | Idea link: /c/idea/121082 | Author links: /c/profile/190578, /c/profile/137194
+Idea: Xerberus Platform Front-end Upgrade | Idea link: /c/idea/120986 | Author links: /c/profile/190072
+Idea: NMKR API integration and NFT encryption | Idea link: /c/idea/120916 | Author links: /c/profile/203679
+Idea: Accelerate Mass Adoption: Open Source Atala Wallet SDK with No Seed Phrase Vulnerability and a No-Code Self-Sovereign Identity Platform | Idea link: /c/idea/120782 | Author links: /c/profile/196164
+Idea: nftio.io: Cardano search engine | Idea link: /c/idea/120750 | Author links: /c/profile/159581
+Idea: Torque Drift 2 in Cardano! | Idea link: /c/idea/120712 | Author links: /c/profile/128649, /c/profile/203197
+Idea: Secure Anonymity with Crypt Keeper | Idea link: /c/idea/120253 | Author links: /c/profile/128966
+Idea: Crossing Blockchains: Onboarding Ethereum and Solana Users to Cardano Through Free E-Sports Gaming | Idea link: /c/idea/120170 | Author links: /c/profile/195554, /c/profile/195967
+Idea: Cardano payment processing Smart contract & NFT creation & deployment within the Birble AI dashboard | Idea link: /c/idea/120028 | Author links: /c/profile/190142
+Idea: Integration of Cardano Ecosystem into the one-stop Infinity Wallet & Browser for Web3 | Idea link: /c/idea/118884 | Author links: /c/profile/179326
+
+Category title: Cardano Partners and Real World Integrations
+Idea: Cutting-edge web3 threat detection for the Cardano Network by Check Point Software Security | Idea link: /c/idea/126209 | Author links: /c/profile/212551
+Idea: Techstars investment-readiness program for Cardano Builders | Idea link: /c/idea/126202 | Author links: /c/profile/208656
+Idea: Creating social implementation use-cases of Cardano in the Shikoku region, Japan. | Idea link: /c/idea/126191 | Author links: /c/profile/212479, /c/profile/212479
+Idea: ACCO2 - The end of eco-fraud! An open-source blockchain and science-based framework for carbon accounting (ACCO2) in the steel industry. | Idea link: /c/idea/126150 | Author links: /c/profile/212379, /c/profile/212538, /c/profile/212543, /c/profile/212570, /c/profile/212379, /c/profile/212538, /c/profile/212543, /c/profile/212570
+Idea: Tokenized Gold on Cardano with the APEX Group | Idea link: /c/idea/126040 | Author links: /c/profile/129888
+Idea: Cardano-powered Real World Asset tokenization: Unlocking a $70T Market | Idea link: /c/idea/126009 | Author links: /c/profile/199652, /c/profile/191352
+Idea: Tokenization of Real World Assets (RWA) - Nairobi Securities Exchange / Empowa | Idea link: /c/idea/125802 | Author links: /c/profile/133577, /c/profile/149488, /c/profile/182772, /c/profile/212402, /c/profile/133577, /c/profile/149488, /c/profile/182772, /c/profile/212402
+Idea: FC Barcelona + Community management + Using Cardano tech | Idea link: /c/idea/125751 | Author links: /c/profile/212228, /c/profile/212228
+Idea: Cardano Ecosystem Advertising Campaign on Brave Browser’s Ad Platform | Idea link: /c/idea/124265 | Author links: /c/profile/199753
