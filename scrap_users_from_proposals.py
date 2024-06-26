@@ -72,23 +72,7 @@ def scrap_submitters_and_idea(soup):
         href_list.append({'title': title, 'title_link': title_link, 'author_links': author_links})
 
     return href_list
-
-# def scrap_submitters(soup):
-#     href_list = []
-
-#     # Find all author-details divs in the HTML
-#     author_details_list = soup.find_all('div', class_='author-details')
-
-#     # Loop through each author-details div
-#     for author_details in author_details_list:
-#         # Get href value from all <a> tags within the author-details div
-#         for a_tag in author_details.find_all('a', class_=['member-item', 'avatar-link']):
-#             href_list.append(a_tag.get('href'))
     
-    
-#     # Return the list of href values
-#     return href_list
-
 def update_users_file(profile_data, category_title):
     file_path = "users_list.txt"
     try:
@@ -96,9 +80,20 @@ def update_users_file(profile_data, category_title):
         if not os.path.exists(file_path):
             open(file_path, 'w').close()
 
-        # Read existing links from the text file
+        # Read existing lines from the text file
         with open(file_path, 'r') as file:
             existing_lines = [line.strip() for line in file]
+
+        # Extract profile URLs from existing lines
+        existing_urls = set()
+        for line in existing_lines:
+            if "Author links:" in line:
+                parts = line.split("Author links: ")[1]
+                urls = parts.split(", ")
+                existing_urls.update(urls)
+
+        # Set to track seen URLs within this run
+        seen_urls = set()
 
         # Open the file in append mode and add new lines
         with open(file_path, 'a') as file:
@@ -108,14 +103,20 @@ def update_users_file(profile_data, category_title):
                 title = data['title']
                 title_link = data['title_link']
                 profile_url_list = data['author_links']
-                
-                # Create a single line with the title, title link, and all profile URLs
-                combined_line = f"Idea: {title} | Idea link: {title_link} | " + "Author links: " + ", ".join(profile_url_list)
-                
-                if combined_line not in existing_lines:
+
+                # Remove links that already exist in the file or have been seen in this run
+                profile_url_list = [link for link in profile_url_list if link not in existing_urls and link not in seen_urls]
+
+                if profile_url_list:
+                    # Create a single line with the title, title link, and remaining profile URLs
+                    combined_line = f"Idea: {title} | Idea link: {title_link} | Author links: " + ", ".join(profile_url_list)
+                    
                     # Append the new line to the file
                     file.write(combined_line + '\n')
-                    existing_lines.append(combined_line)
+                    
+                    # Update the sets with the new profile URLs to prevent future duplicates
+                    existing_urls.update(profile_url_list)
+                    seen_urls.update(profile_url_list)
 
         print("File updated successfully.")
     except Exception as e:
@@ -125,11 +126,11 @@ def update_users_file(profile_data, category_title):
 categories = [
     # Fund 12
     # "https://cardano.ideascale.com/c/campaigns/415/stage/all/ideas/unspecified", # Developers
-    "https://cardano.ideascale.com/c/campaigns/413/stage/all/ideas/unspecified", # MVP
+    # "https://cardano.ideascale.com/c/campaigns/413/stage/all/ideas/unspecified", # MVP
     # "https://cardano.ideascale.com/c/campaigns/416/stage/all/ideas/unspecified", # Ecosystem
     # "https://cardano.ideascale.com/c/campaigns/412/stage/all/ideas/unspecified", # Concept
     # "https://cardano.ideascale.com/c/campaigns/414/stage/all/ideas/unspecified", # Product
-    # "https://cardano.ideascale.com/c/campaigns/417/stage/all/ideas/unspecified"  # Partners
+    "https://cardano.ideascale.com/c/campaigns/417/stage/all/ideas/unspecified"  # Partners
 
     # Fund11
     # "https://cardano.ideascale.com/c/campaigns/407/stage/stage-moderatione8a811/ideas/unspecified",
