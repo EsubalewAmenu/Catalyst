@@ -62,7 +62,7 @@ def checkIfLoggedIn(driver):
         password_field = driver.find_element(By.ID, 'login-password')
 
         email_field.send_keys('esubalew.a2009@gmail.com')
-        password_field.send_keys('Heriseb@1')
+        password_field.send_keys('testtest')
 
         # Find and click the login button
         login_button = driver.find_element(By.XPATH, '//button[text()="Log in"]')
