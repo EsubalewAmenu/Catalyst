@@ -108,15 +108,18 @@ def update_users_file(profile_data, category_title):
                 profile_url_list = [link for link in profile_url_list if link not in existing_urls and link not in seen_urls]
 
                 if profile_url_list:
-                    # Create a single line with the title, title link, and remaining profile URLs
-                    combined_line = f"Idea: {title} | Idea link: {title_link} | Author links: " + ", ".join(profile_url_list)
-                    
-                    # Append the new line to the file
-                    file.write(combined_line + '\n')
-                    
-                    # Update the sets with the new profile URLs to prevent future duplicates
-                    existing_urls.update(profile_url_list)
-                    seen_urls.update(profile_url_list)
+                    for profile_link in profile_url_list:
+                        # Create a single line with the title, title link, and the current profile URL
+                        combined_line = f"Idea: {title} | Idea link: {title_link} | Author link: {profile_link}"
+                        
+                        # Append the new line to the file
+                        file.write(combined_line + '\n')
+                        
+                        # Update the sets with the new profile URL to prevent future duplicates
+                        existing_urls.add(profile_link)
+
+                        seen_urls.add(profile_link)
+
 
         print("File updated successfully.")
     except Exception as e:
@@ -125,12 +128,12 @@ def update_users_file(profile_data, category_title):
 
 categories = [
     # Fund 12
-    # "https://cardano.ideascale.com/c/campaigns/415/stage/all/ideas/unspecified", # Developers
+    "https://cardano.ideascale.com/c/campaigns/415/stage/all/ideas/unspecified", # Developers
     # "https://cardano.ideascale.com/c/campaigns/413/stage/all/ideas/unspecified", # MVP
     # "https://cardano.ideascale.com/c/campaigns/416/stage/all/ideas/unspecified", # Ecosystem
     # "https://cardano.ideascale.com/c/campaigns/412/stage/all/ideas/unspecified", # Concept
     # "https://cardano.ideascale.com/c/campaigns/414/stage/all/ideas/unspecified", # Product
-    "https://cardano.ideascale.com/c/campaigns/417/stage/all/ideas/unspecified"  # Partners
+    # "https://cardano.ideascale.com/c/campaigns/417/stage/all/ideas/unspecified"  # Partners
 
     # Fund11
     # "https://cardano.ideascale.com/c/campaigns/407/stage/stage-moderatione8a811/ideas/unspecified",
