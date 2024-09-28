@@ -128,15 +128,15 @@ def update_users_file(profile_data, category_title):
 
 categories = [
     # Fund 12
-    "https://cardano.ideascale.com/c/campaigns/415/stage/all/ideas/unspecified", # Developers
-    # "https://cardano.ideascale.com/c/campaigns/413/stage/all/ideas/unspecified", # MVP
-    # "https://cardano.ideascale.com/c/campaigns/416/stage/all/ideas/unspecified", # Ecosystem
-    # "https://cardano.ideascale.com/c/campaigns/412/stage/all/ideas/unspecified", # Concept
+    # "https://cardano.ideascale.com/c/campaigns/415/stage/all/ideas/unspecified", # Developers
     # "https://cardano.ideascale.com/c/campaigns/414/stage/all/ideas/unspecified", # Product
     # "https://cardano.ideascale.com/c/campaigns/417/stage/all/ideas/unspecified"  # Partners
+    # "https://cardano.ideascale.com/c/campaigns/413/stage/all/ideas/unspecified", # MVP
+    # "https://cardano.ideascale.com/c/campaigns/412/stage/all/ideas/unspecified", # Concept
+    # "https://cardano.ideascale.com/c/campaigns/416/stage/all/ideas/unspecified", # Ecosystem
 
     # Fund11
-    # "https://cardano.ideascale.com/c/campaigns/407/stage/stage-moderatione8a811/ideas/unspecified",
+    "https://cardano.ideascale.com/c/campaigns/407/stage/stage-moderatione8a811/ideas/unspecified",
     # "https://cardano.ideascale.com/c/campaigns/404/stage/stage-moderationb4ff7a/ideas/unspecified", 
     # "https://cardano.ideascale.com/c/campaigns/405/stage/stage-moderationf8cce8/ideas/unspecified",
     # "https://cardano.ideascale.com/c/campaigns/406/stage/stage-moderationd45a46/ideas/unspecified",

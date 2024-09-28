@@ -4,186 +4,116 @@ import random
 def subject_selector():
 
     subject_options =[
-        "[Fund11] Cast Your Vote for Cardano's Future!",
-        "[Fund11] Elevate Cardano!",
-        "Your Vote Matters! Discover Top-Rated Proposals.",
-        "Explore Community-Backed Fund11 Proposals!",
-        "[Fund11] Shape the Destiny of Cardano!",
-        "Support High-Rated Fund11 Proposals!",
-        "[Fund11] Vote for Success!",
-        "Vote for Standout Fund11 Proposals!",
-        "Explore Community-Prized Fund11 Proposals!",
+        "Let's Join Forces for Cardano Catalyst Fund12",
+        "Continued Collaboration on Cardano Catalyst",
+        "Revisiting Fund11 Success for Fund12",
+        "Exploring Synergies for Catalyst Fund12",
+        "Building on Fund11 Success for Fund12",
+        "Catalyzing Success Together in Fund12",
     ]
     return random.choice(subject_options)
+def we_are_voting():
+
+    pre_voting =[
+        "Hi,",
+        "Hello,",
+        "Hey,",
+        "Good morning,",
+        "Hi there,",
+        "I hope this message finds you well.",
+        "I hope all is well.",
+        "I hope you’re well."
+    ]
+
+    suf_voting =[
+        "As a fellow participant in Cardano Catalyst Fund11, ",
+        "I remember your excellent proposal from Fund11 and wanted to reach out.",
+        "Your proposal in Fund11 was inspiring. As we prepare for Fund12, ",
+        "Your project in Fund11 left a lasting impression. As we prepare our Fund12 proposals,",
+        "I hope you’re doing well. Reflecting on your Fund11 proposal,",
+        "I admired your Fund11 proposal and think our current projects could benefit from a collaboration.",
+        "Your Fund11 project was impressive, and I believe we could create something even more impactful together in Fund12.",
+        "Your Fund11 proposal inspired me to reach out as we work on our Fund12 submissions. "
+    ]
+
+    selected_content = (
+        random.choice(pre_voting) + '\n\n'+
+        random.choice(suf_voting) + '\n'
+    )
+
+    return selected_content
 
 def body_selector():
 
 
     pre_fund =[
-        "Impressed by your Fund10 proposal, we were expected a new submission this round. Although the submission time is over, your support for our project can still drive impactful initiatives.",
-        "Your Fund10 proposal was interesting, and we were hopeful for a new one this round. Even without it, your support for our project can still make a significant impact.",
-        "Your Fund10 proposal left an impression, and we were looking forward to your submission this round. Regardless, your vote for our project fuels the realization of impactful projects.",
-        "After the interesting Fund10 proposal, we were eager for your new submission. Although the submission time is over, your support for our project contributes to the success of impactful initiatives.",
-        "The impact of your Fund10 proposal resonated, and we awaited a new one this round. Even without it, your support for our project propels impactful initiatives forward.",
-        "Your Fund10 proposal intrigued us, and we hoped for a follow-up this round. Nevertheless, your vote for our project is crucial in realizing impactful projects on the ground.",
-        "Your Fund10 proposal caught our attention, and we were hopeful for a new one this round. Even without it, your vote for our project contributes to the success of impactful projects on the ground."
+        "Would love your support for both myself and my friend proposals,",
+        "We hope you’ll vote for myself and my friend proposals,",
+        "Hope you’ll consider supporting me and my friend,",
+        "We’d appreciate your vote for both myself and my friend projects as well,",
+        "Please consider supporting me and my friend,",
+        "Could you support me and my friend,",
+        "We kindly ask for your support for both myself and my friend projects as well,",
+        "We'd be grateful if you could cast your vote for both myself and my friend proposals as well,",
+        "Please consider voting for both myself and my friend proposals too,",
+        "We’d appreciate your vote for both myself and my friend proposals as well,"
     ]
 
-    intro =[
-    '''Vote for Excellence!
-
-    Explore our Developers category proposals!
-
-    Why us?''',
-    '''Elevate Cardano with Us!
-
-    Discover our Developers category proposals impact!
-
-    Why choose us?''',
-    '''Unleash the potential of our Developers category proposals!
-
-    Why support us?''',
-    '''Revolutionize with Developers!
-
-    Your vote matters in the Developers category!
-
-    Why us?''',
-    '''Discover our Developers category proposals!
-
-    Why support us?''',
-    '''Explore the Developers category!
-
-    Why choose us?''',
-    '''Your voice matters in the Developers category!
-
-    Why support us?''',
-    '''Discover our Developers category proposals!
-
-    Why choose us?''',
-    '''    Developers Unite for Cardano!
-
-    Unleash the potential of our Developers category proposals!
-
-    Why support us?''',
-    '''    Your Vote Powers Progress!
-
-    Explore our Developers category proposals!
-
-    Why us?''',
-    '''    Your Vote, Your Cardano Legacy!
-
-    Discover our Developers category proposals!
-
-    Why support us?''',
-    '''Your voice matters in the Developers category!
-
-    Why us?'''
-        ]
-    why_us = [
-        "Why us?",
-        "Why support us?",
-        "Why choose us?",
-        "Why vote for us?"
-    ]
-    success = [
-        "* Unmatched Success: 100K+ app downloads.",
-        "* Stellar Track Record: 100K+ app downloads.",
-        "* Proven Success: App triumph with 100K+ downloads.",
-        "* Proven Excellence: App with 100K+ downloads.",
-        "* Unparalleled Success: App soaring with 100K+ downloads.",
-        "* Track Record: App triumph with 100K+ downloads.",
-        "* App Success: Soaring with 100K+ downloads.",
-        "* Unmatched Success: 100K+ app downloads.",
-        "* Proven Success: App soaring with 100K+ downloads.",
-        "* Unmatched Success: 100K+ app downloads.",
-        "* Unparalleled Success: App soaring with 100K+ downloads.",
-        "* App Success: Soaring with 100K+ downloads."
-        ]
-    collaboration = [
-        " Trusted Partner: Microsoft for Startups Founders Hub.",
-        " Power of Collaboration: Microsoft for Startups Founders Hub.",
-        " Collaborative Power: Microsoft for Startups Founders Hub alliance.",
-        " Strategic Collaborator: Microsoft for Startups Founders Hub.",
-        " Collaboration Dynamo: Partnered with Microsoft for Startups Founders Hub.",
-        " Trusted Partner: Microsoft for Startups Founders Hub.",
-        " Collaboration Dynamo: Microsoft for Startups Founders Hub ally.",
-        " Trusted Collaborator: Microsoft for Startups Founders Hub.",
-        " Collaborative Dynamo: Partnered with Microsoft for Startups Founders Hub.",
-        " Trusted Collaborator: Microsoft for Startups Founders Hub.",
-        " Collaboration Dynamo: Partnered with Microsoft for Startups Founders Hub.",
-        " Collaboration Dynamo: Microsoft for Startups Founders Hub ally."
-        ]
-    experts = [
-        " Blockchain Mastery: Deep Cardano expertise.",
-        " Blockchain Experts: Proficient in Cardano tech.",
-        " Blockchain Prowess: Cardano tech expertise.",
-        " Blockchain Gurus: Experts in Cardano tech.",
-        " Blockchain Whizzes: Mastery in Cardano tech.",
-        " Blockchain Mastery: Deep Cardano expertise.",
-        " Blockchain Gurus: Experts in Cardano tech.",
-        " Blockchain Prowess: Deep Cardano expertise.",
-        " Blockchain Mastery: Experts in Cardano tech.",
-        " Blockchain Prowess: Deep Cardano expertise.",
-        " Blockchain Whizzes: Mastery in Cardano tech.",
-        " Blockchain Gurus: Experts in Cardano tech."
-        ]
-    ratting = [
-        " Highly Rated: Community feedback supports our proposals!",
-        " Community Choice: Our proposal received great reviews!",
-        " Standout Performer: Our proposals earned high community ratings!",
-        " Highly Acclaimed: Our proposals received top community ratings",
-        " Community-Endorsed: Our proposals stands out with high ratings!",
-        " Rated High: Our proposals earned praise during the community review stage!",
-        " Ratings: Our proposals stood out during community review!",
-        " Backed by the Community: Our proposals received high ratings in the review stage!",
-        " Community Endorsement: Our proposals earned praise with outstanding reviews!",
-        " Resonating Success: Our proposal received top reviews during the community stage!",
-        " Recognized Excellence: Our proposal earned high community ratings during review!",
-        " Community-Praised: Our proposal is a standout performer with high ratings!"
-
-    ]
-    revolution = [
-        " Focus: DevTools for 45%+ global websites.",
-        " Revolution: DevTools for 45%+ global websites.",
-        " Integration: DevTools for 45%+ global websites.",
-        " Evolution: DevTools for 45%+ global websites.",
-        " Transformation: DevTools for 45%+ global websites.",
-        " Revolution: DevTools for 45%+ global websites.",
-        " Evolution: DevTools for 45%+ global websites.",
-        " Focus: DevTools for 45%+ global websites.",
-        " Evolution: DevTools for 45%+ global websites.",
-        " Focus: DevTools for 45%+ global websites.",
-        " Transformation: DevTools for 45%+ global websites.",
-        " Evolution: DevTools for 45%+ global websites."
-    ]
-    signature = [
-        '''Search "Esubalew" to locate our proposals quickly. Cast your vote and propel Cardano forward!''',
-        '''Search "Esubalew" - Your vote is the catalyst! Easily find our proposals and ignite Cardano's progress!''',
-        '''Your Vote, Your Impact! Search "Esubalew" - Locate our proposals easily and cast a vote that transforms Cardano!''',
-        '''Navigate Change - Search "Esubalew" - Find our proposals with a simple search. Your vote steers Cardano's course!''',
-        '''Easy Access, Big Impact! Search "Esubalew" - Discover our proposals effortlessly. Your vote shapes the destiny of Cardano!''',
-        '''Search "Esubalew" to locate our proposals quickly. Cast your vote and propel Cardano forward!''',
-        '''Search "Esubalew" - Explore our proposals with ease. Your vote is the catalyst for Cardano's growth!''',
-        '''Search "Esubalew" - Access our proposals effortlessly. Every vote paves the way for a stronger Cardano!''',
-        '''Search "Esubalew" - Make your vote count! Find us easily and fuel Cardano's evolution.''',
-        '''Search "Esubalew" - Easily access our proposals! Cast your vote for a thriving Cardano.''',
-        '''Search "Esubalew" to find our proposals easily. Your vote shapes Cardano's future!''',
-        '''Search "Esubalew" for easy access to our proposals. Your vote fuels progress!'''
-    ]
-
-
-    selected_content = (
-        random.choice(pre_fund) + '\n\n'+
-        # random.choice(intro) + '\n'+
-        random.choice(why_us) + '\n'+
     
-    random.choice(success) + '\n' +
-     random.choice(collaboration) + '\n'+
-     random.choice(experts) + '\n'+
-     random.choice(ratting) + '\n'+
-     random.choice(revolution)+ '\n'
+    ending =[
+        " given our strong track record and expert team",
+        " considering our previous fund success and innovative approach",
+        " given our proven track record and high ratings",
+        " considering our history of successful projects and expert team",
+        " based on our past successes and expert-driven innovations",
+        " given our previous fund achievements and revolutionary ideas",
+        " considering our history of successful collaborations and expert team",
+        " leveraging our past fund success, strong ratings, and innovative approach",
+        " given our proven track record in previous funds, expert team, and high ratings",
+        " considering our previous Fund successes, strong team expertise, and collaborative spirit"
+    ]
 
-    '\n\n'+random.choice(signature) + "\n"
+    
+    selected_content = (
+        '\n' +random.choice(pre_fund) + random.choice(ending) + "\n"
     )
 
     return selected_content
+
+def signature():
+
+    # suf_fund =[
+    #     "Together, we can achieve great things.",
+    #     "Thanks for your support!",
+    #     "Thank you for your collaboration.",
+    #     "Thanks a lot!",
+    #     "Thank you!",
+    #     "Together, we’re stronger.",
+    #     "Best of luck to us all!",
+    #     "Let's make a difference together.",
+    #     "Together, we can achieve more!"
+    #     ]
+    
+    signature = [
+        '''Search "Esubalew" and "Tadesse" to locate our proposals quickly. Cast your vote and propel Cardano forward!''',
+        '''Search "Esubalew" and "Tadesse" - Your vote is the catalyst! Easily find our proposals and ignite Cardano's progress!''',
+        '''Your Vote, Your Impact! Search "Esubalew" and "Tadesse" - Locate our proposals easily and cast a vote that transforms Cardano!''',
+        '''Navigate Change - Search "Esubalew" and "Tadesse" - Find our proposals with a simple search. Your vote steers Cardano's course!''',
+        '''Easy Access, Big Impact! Search "Esubalew" and "Tadesse" - Discover our proposals effortlessly. Your vote shapes the destiny of Cardano!''',
+        '''Search "Esubalew" and "Tadesse" to locate our proposals quickly. Cast your vote and propel Cardano forward!''',
+        '''Search "Esubalew" and "Tadesse" - Explore our proposals with ease. Your vote is the catalyst for Cardano's growth!''',
+        '''Search "Esubalew" and "Tadesse" - Access our proposals effortlessly. Every vote paves the way for a stronger Cardano!''',
+        '''Search "Esubalew" and "Tadesse" - Make your vote count! Find us easily and fuel Cardano's evolution.''',
+        '''Search "Esubalew" and "Tadesse" - Easily access our proposals! Cast your vote for a thriving Cardano.''',
+        '''Search "Esubalew" and "Tadesse" to find our proposals easily. Your vote shapes Cardano's future!''',
+        '''Search "Esubalew" and "Tadesse" for easy access to our proposals. Your vote fuels progress!'''
+    ]
+
+    return '\n' + random.choice(signature)
+
+    # selected_content = (
+    #     '\n' +random.choice(suf_fund) + '\n\n'+
+    # random.choice(signature) + "\n\n"
+    # )
+
+    # return selected_content
